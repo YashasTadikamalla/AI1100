@@ -1,0 +1,4793 @@
+%PDF-1.7
+%öäüß
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Lang (en-IN)
+/StructTreeRoot 3 0 R
+/MarkInfo <<
+/Marked true
+>>
+/Metadata 4 0 R
+/ViewerPreferences 5 0 R
+/OpenAction 6 0 R
+>>
+endobj
+7 0 obj
+<<
+/Title (ID 1050  Artificial Intelligence Assignment)
+/CreationDate (D:20210611131534+05'30')
+/ModDate (D:20210611131534+05'30')
+/Producer <FEFF004D006900630072006F0073006F0066007400AE00200050006F0077006500720050006F0069006E007400AE00200066006F00720020004D006900630072006F0073006F006600740020003300360035>
+/Creator <FEFF004D006900630072006F0073006F0066007400AE00200050006F0077006500720050006F0069006E007400AE00200066006F00720020004D006900630072006F0073006F006600740020003300360035>
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 6
+/Kids [8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R]
+>>
+endobj
+3 0 obj
+<<
+/Type /StructTreeRoot
+/RoleMap 14 0 R
+/ParentTree 15 0 R
+/K [16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R]
+/ParentTreeNextKey 45
+>>
+endobj
+4 0 obj
+<<
+/Length 3152
+/Type /Metadata
+/Subtype /XML
+>>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="3.1-701">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:about=""  xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+<pdf:Producer>MicrosoftÂ® PowerPointÂ® for Microsoft 365</pdf:Producer></rdf:Description>
+<rdf:Description rdf:about=""  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title><rdf:Alt><rdf:li xml:lang="x-default">ID 1050  Artificial Intelligence Assignment</rdf:li></rdf:Alt></dc:title></rdf:Description>
+<rdf:Description rdf:about=""  xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+<xmp:CreatorTool>MicrosoftÂ® PowerPointÂ® for Microsoft 365</xmp:CreatorTool><xmp:CreateDate>2021-06-11T13:15:34+05:30</xmp:CreateDate><xmp:ModifyDate>2021-06-11T13:15:34+05:30</xmp:ModifyDate></rdf:Description>
+<rdf:Description rdf:about=""  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+<xmpMM:DocumentID>uuid:DF0D1285-6E16-4705-BC90-D5EB840231FD</xmpMM:DocumentID><xmpMM:InstanceID>uuid:DF0D1285-6E16-4705-BC90-D5EB840231FD</xmpMM:InstanceID></rdf:Description>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+</rdf:RDF></x:xmpmeta><?xpacket end="w"?>
+endstream
+endobj
+5 0 obj
+<<
+/DisplayDocTitle true
+>>
+endobj
+6 0 obj
+<<
+/Type /Action
+/S /JavaScript
+/JS (this.print\({bUI:true,bSilent:false,bShrinkToFit:true}\);)
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/ExtGState <<
+/GS5 22 0 R
+/GS8 23 0 R
+>>
+/Font <<
+/F1 24 0 R
+>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+>>
+/MediaBox [0 0 720 405]
+/Contents 25 0 R
+/Group <<
+/Type /Group
+/S /Transparency
+/CS /DeviceRGB
+>>
+/Tabs /S
+/StructParents 0
+>>
+endobj
+9 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/ExtGState <<
+/GS5 22 0 R
+/GS8 23 0 R
+>>
+/Font <<
+/F1 24 0 R
+/F2 26 0 R
+/F3 27 0 R
+>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+>>
+/Annots [28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R
+38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R
+48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R
+58 0 R 59 0 R 60 0 R]
+/MediaBox [0 0 720 405]
+/Contents 61 0 R
+/Group <<
+/Type /Group
+/S /Transparency
+/CS /DeviceRGB
+>>
+/Tabs /S
+/StructParents 1
+>>
+endobj
+10 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/ExtGState <<
+/GS5 22 0 R
+/GS8 23 0 R
+>>
+/Font <<
+/F1 24 0 R
+/F2 26 0 R
+>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+>>
+/Annots [62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R]
+/MediaBox [0 0 720 405]
+/Contents 68 0 R
+/Group <<
+/Type /Group
+/S /Transparency
+/CS /DeviceRGB
+>>
+/Tabs /S
+/StructParents 35
+>>
+endobj
+11 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/ExtGState <<
+/GS5 22 0 R
+/GS8 23 0 R
+>>
+/Font <<
+/F2 26 0 R
+/F1 24 0 R
+/F4 69 0 R
+>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+>>
+/MediaBox [0 0 720 405]
+/Contents 70 0 R
+/Group <<
+/Type /Group
+/S /Transparency
+/CS /DeviceRGB
+>>
+/Tabs /S
+/StructParents 42
+>>
+endobj
+12 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/ExtGState <<
+/GS5 22 0 R
+/GS8 23 0 R
+>>
+/Font <<
+/F1 24 0 R
+/F3 27 0 R
+>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+>>
+/MediaBox [0 0 720 405]
+/Contents 71 0 R
+/Group <<
+/Type /Group
+/S /Transparency
+/CS /DeviceRGB
+>>
+/Tabs /S
+/StructParents 43
+>>
+endobj
+13 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/ExtGState <<
+/GS5 22 0 R
+/GS8 23 0 R
+>>
+/Font <<
+/F1 24 0 R
+/F3 27 0 R
+>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+>>
+/MediaBox [0 0 720 405]
+/Contents 72 0 R
+/Group <<
+/Type /Group
+/S /Transparency
+/CS /DeviceRGB
+>>
+/Tabs /S
+/StructParents 44
+>>
+endobj
+14 0 obj
+<<
+/Footnote /Note
+/Endnote /Note
+/Textbox /Sect
+/Header /Sect
+/Footer /Sect
+/InlineShape /Sect
+/Annotation /Sect
+/Artifact /Sect
+/Workbook /Document
+/Worksheet /Part
+/Macrosheet /Part
+/Chartsheet /Part
+/Dialogsheet /Part
+/Slide /Part
+/Chart /Sect
+/Diagram /Figure
+>>
+endobj
+15 0 obj
+<<
+/Nums [0 [73 0 R 74 0 R 75 0 R 76 0 R]
+ 1 [77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R
+87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R
+97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R
+107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R
+117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R
+127 0 R 128 0 R 129 0 R 130 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R
+137 0 R 138 0 R 139 0 R 140 0 R 141 0 R 142 0 R 143 0 R 144 0 R 145 0 R 146 0 R
+147 0 R 148 0 R 149 0 R 150 0 R 151 0 R 152 0 R 153 0 R 154 0 R 155 0 R 156 0 R]
+ 2 157 0 R 3 158 0 R 4 159 0 R
+5 160 0 R 6 161 0 R 7 162 0 R 8 163 0 R 9 164 0 R
+10 165 0 R 11 166 0 R 12 167 0 R 13 168 0 R 14 169 0 R
+15 170 0 R 16 171 0 R 17 172 0 R 18 173 0 R 19 174 0 R
+20 175 0 R 21 176 0 R 22 177 0 R 23 178 0 R 24 179 0 R
+25 180 0 R 26 181 0 R 27 182 0 R 28 183 0 R 29 184 0 R
+30 185 0 R 31 186 0 R 32 187 0 R 33 188 0 R 34 189 0 R
+35 [190 0 R 191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 196 0 R 197 0 R 198 0 R 199 0 R
+200 0 R 201 0 R 202 0 R 203 0 R 204 0 R 205 0 R 206 0 R 207 0 R 208 0 R 209 0 R
+210 0 R 211 0 R 212 0 R 213 0 R 214 0 R 215 0 R 216 0 R 217 0 R 218 0 R 219 0 R
+220 0 R 221 0 R 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 227 0 R 228 0 R 229 0 R
+230 0 R 231 0 R 232 0 R 233 0 R 234 0 R 235 0 R 236 0 R]
+ 36 237 0 R 37 238 0 R 38 239 0 R 39 240 0 R
+40 241 0 R 41 242 0 R 42 [243 0 R 244 0 R 245 0 R 246 0 R 247 0 R 248 0 R 249 0 R 250 0 R 251 0 R 252 0 R
+253 0 R 254 0 R 255 0 R 256 0 R 257 0 R 258 0 R 259 0 R 260 0 R 261 0 R 262 0 R]
+ 43 [263 0 R 264 0 R 265 0 R 266 0 R 267 0 R 268 0 R 269 0 R 270 0 R 271 0 R 272 0 R
+273 0 R 274 0 R 275 0 R 276 0 R 277 0 R]
+ 44 [278 0 R 279 0 R 280 0 R 281 0 R 282 0 R 283 0 R 284 0 R 285 0 R 286 0 R 287 0 R
+288 0 R 289 0 R 290 0 R 291 0 R 292 0 R 293 0 R 294 0 R 295 0 R 296 0 R 297 0 R
+298 0 R 299 0 R 300 0 R 301 0 R 302 0 R 303 0 R]
+]
+>>
+endobj
+16 0 obj
+<<
+/P 3 0 R
+/S /Sect
+/Type /StructElem
+/K [304 0 R 305 0 R]
+/Pg 8 0 R
+>>
+endobj
+17 0 obj
+<<
+/P 3 0 R
+/S /Sect
+/Type /StructElem
+/K [306 0 R 307 0 R]
+/Pg 9 0 R
+>>
+endobj
+18 0 obj
+<<
+/P 3 0 R
+/S /Sect
+/Type /StructElem
+/K [308 0 R 309 0 R]
+/Pg 10 0 R
+>>
+endobj
+19 0 obj
+<<
+/P 3 0 R
+/S /Sect
+/Type /StructElem
+/K [310 0 R]
+/Pg 11 0 R
+>>
+endobj
+20 0 obj
+<<
+/P 3 0 R
+/S /Sect
+/Type /StructElem
+/K [311 0 R 312 0 R]
+/Pg 12 0 R
+>>
+endobj
+21 0 obj
+<<
+/P 3 0 R
+/S /Sect
+/Type /StructElem
+/K [313 0 R 314 0 R]
+/Pg 13 0 R
+>>
+endobj
+22 0 obj
+<<
+/Type /ExtGState
+/BM /Normal
+/ca 1
+>>
+endobj
+23 0 obj
+<<
+/Type /ExtGState
+/BM /Normal
+/CA 1
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F1
+/BaseFont /ArialMT
+/Encoding /WinAnsiEncoding
+/FontDescriptor 315 0 R
+/FirstChar 32
+/LastChar 122
+/Widths [278 0 0 556 0 889 0 191 333 333
+0 0 278 333 278 278 556 556 556 556
+556 0 0 556 556 556 278 278 584 0
+584 556 0 667 667 722 722 667 611 0
+722 278 0 667 556 833 722 0 667 0
+722 0 611 0 0 944 0 667 0 278
+0 278 0 556 0 556 556 500 556 556
+278 556 556 222 222 500 222 833 556 556
+556 556 333 500 278 556 500 722 500 500
+500]
+>>
+endobj
+25 0 obj
+<<
+/Length 313
+/Filter /FlateDecode
+>>
+stream
+xœ­ÑKkÂ@ğûÂ~‡9&B6³¯<@_K…Sz(=‰K YmÌ÷§›H+¢âÁîeæ0ÌÿÇN8nÚr›oZ˜¬¦ğM	2t/åZKˆ‚BMAÉÇ ,%áb­Á(á`NÓ5OÎ¦·JŞ(¹[ázŸ[ÃÕt9_rkÀ+lğ¾öG#˜ÌÑı*±H¯DO2ÿÄAs–&
+²m‡pà TÊTRhCVw0Ó[“ŞŠ° äÓ/sDÿ²gJæÙM!ÿşcÊ´SF’‰ääûeu'(}émÊ¼‚¥m‹ª*Ma7Ü§ŠG©ÑùG¢#JW%Ñ¥ôpğé•ÆÖ~ \f{(ŠøòÔR2TÀUÌ¤:
+]“öÊ¾é¥¯Í®ÚuF~ ½}³ëà¦É»R×¥5Wä?°4§Â
+endstream
+endobj
+26 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F2
+/BaseFont /Arial-BoldMT
+/Encoding /WinAnsiEncoding
+/FontDescriptor 316 0 R
+/FirstChar 32
+/LastChar 122
+/Widths [278 0 0 0 0 0 0 0 0 0
+0 0 0 333 0 278 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 722 0 722 0 0 0 778
+0 278 0 0 0 0 0 0 667 0
+0 667 0 0 0 944 0 0 0 0
+0 0 0 0 0 556 611 556 611 556
+333 611 611 278 0 0 278 889 611 611
+611 0 389 556 333 611 556 778 0 556
+500]
+>>
+endobj
+27 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F3
+/BaseFont /Arial-ItalicMT
+/Encoding /WinAnsiEncoding
+/FontDescriptor 317 0 R
+/FirstChar 32
+/LastChar 121
+/Widths [278 0 0 0 0 0 0 0 333 333
+389 0 278 0 278 278 0 556 556 556
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 722 667 0 0
+0 0 0 0 0 0 0 0 667 0
+0 667 611 0 0 0 0 0 0 0
+0 0 0 0 0 556 0 500 556 556
+278 556 556 222 0 0 222 833 556 556
+556 556 333 500 278 556 0 722 500 500]
+>>
+endobj
+28 0 obj
+<<
+/Subtype /Link
+/Rect [89.784 288.94 177.02 298.78]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Logic_programming)
+>>
+/StructParent 2
+>>
+endobj
+29 0 obj
+<<
+/Subtype /Link
+/Rect [300.77 288.94 392.59 298.9]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Artificial_intelligence)
+>>
+/StructParent 3
+>>
+endobj
+30 0 obj
+<<
+/Subtype /Link
+/Rect [415.63 288.94 530.26 298.78]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Computational_linguistics)
+>>
+/StructParent 4
+>>
+endobj
+31 0 obj
+<<
+/Subtype /Link
+/Rect [533.02 293.5 564.46 302.14]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog#cite_note-Clocksin2003-1)
+>>
+/StructParent 5
+>>
+endobj
+32 0 obj
+<<
+/Subtype /Link
+/Rect [544.06 293.5 553.42 302.14]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog#cite_note-Bratko2012-2)
+>>
+/StructParent 6
+>>
+endobj
+33 0 obj
+<<
+/Subtype /Link
+/Rect [554.5 293.5 563.86 302.14]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog#cite_note-Covington1994-3)
+>>
+/StructParent 7
+>>
+endobj
+34 0 obj
+<<
+/Subtype /Link
+/Rect [135.74 269.35 205.58 279.31]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/First-order_logic)
+>>
+/StructParent 8
+>>
+endobj
+35 0 obj
+<<
+/Subtype /Link
+/Rect [219.86 269.35 273.89 279.31]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Formal_logic)
+>>
+/StructParent 9
+>>
+endobj
+36 0 obj
+<<
+/Subtype /Link
+/Rect [385.99 269.35 499.99 279.19]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Programming_language)
+>>
+/StructParent 10
+>>
+endobj
+37 0 obj
+<<
+/Subtype /Link
+/Rect [31.68 255.31 82.824 264.79]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Declarative_programming)
+>>
+/StructParent 11
+>>
+endobj
+38 0 obj
+<<
+/Subtype /Link
+/Rect [562.3 255.31 585.34 264.79]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Rule_of_inference)
+>>
+/StructParent 12
+>>
+endobj
+39 0 obj
+<<
+/Subtype /Link
+/Rect [255.89 244.99 266.45 253.63]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog#cite_note-lloyd84-4)
+>>
+/StructParent 13
+>>
+endobj
+40 0 obj
+<<
+/Subtype /Link
+/Rect [402.43 221.23 484.39 230.83]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Alain_Colmerauer)
+>>
+/StructParent 14
+>>
+endobj
+41 0 obj
+<<
+/Subtype /Link
+/Rect [31.68 206.83 670.78 230.71]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Robert_Kowalski)
+>>
+/StructParent 15
+>>
+endobj
+42 0 obj
+<<
+/Subtype /Link
+/Rect [212.18 206.83 276.65 216.31]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Horn_clause)
+>>
+/StructParent 16
+>>
+endobj
+43 0 obj
+<<
+/Subtype /Link
+/Rect [274.49 211.03 276.41 219.67]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog#cite_note-Kowalski-5)
+>>
+/StructParent 17
+>>
+endobj
+44 0 obj
+<<
+/Subtype /Link
+/Rect [297.41 191.45 307.97 200.11]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog#cite_note-7)
+>>
+/StructParent 18
+>>
+endobj
+45 0 obj
+<<
+/Subtype /Link
+/Rect [390.67 172.37 466.75 182.21]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Automated_theorem_proving)
+>>
+/StructParent 19
+>>
+endobj
+46 0 obj
+<<
+/Subtype /Link
+/Rect [469.51 176.93 480.07 185.57]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog#cite_note-8)
+>>
+/StructParent 20
+>>
+endobj
+47 0 obj
+<<
+/Subtype /Link
+/Rect [482.95 172.37 553.9 182.09]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Expert_system)
+>>
+/StructParent 21
+>>
+endobj
+48 0 obj
+<<
+/Subtype /Link
+/Rect [556.66 176.93 567.22 185.57]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog#cite_note-9)
+>>
+/StructParent 22
+>>
+endobj
+49 0 obj
+<<
+/Subtype /Link
+/Rect [569.86 172.37 633.7 182.21]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Term_rewriting)
+>>
+/StructParent 23
+>>
+endobj
+50 0 obj
+<<
+/Subtype /Link
+/Rect [636.46 176.93 652.18 185.57]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog#cite_note-10)
+>>
+/StructParent 24
+>>
+endobj
+51 0 obj
+<<
+/Subtype /Link
+/Rect [31.68 157.97 675.1 182.09]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Type_system)
+>>
+/StructParent 25
+>>
+endobj
+52 0 obj
+<<
+/Subtype /Link
+/Rect [73.224 162.53 88.944 171.17]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog#cite_note-Lee2015-11)
+>>
+/StructParent 26
+>>
+endobj
+53 0 obj
+<<
+/Subtype /Link
+/Rect [112.22 157.97 204.98 167.81]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Automated_planning)
+>>
+/StructParent 27
+>>
+endobj
+54 0 obj
+<<
+/Subtype /Link
+/Rect [207.74 162.53 223.46 171.17]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog#cite_note-Schmid2003-12)
+>>
+/StructParent 28
+>>
+endobj
+55 0 obj
+<<
+/Subtype /Link
+/Rect [425.83 157.97 558.7 167.81]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Natural_language_processing)
+>>
+/StructParent 29
+>>
+endobj
+56 0 obj
+<<
+/Subtype /Link
+/Rect [561.46 162.53 592.78 171.17]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog#cite_note-13)
+>>
+/StructParent 30
+>>
+endobj
+57 0 obj
+<<
+/Subtype /Link
+/Rect [577.66 162.53 592.18 171.17]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog#cite_note-lally-14)
+>>
+/StructParent 31
+>>
+endobj
+58 0 obj
+<<
+/Subtype /Link
+/Rect [205.34 143.45 320.45 153.41]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Graphical_user_interface)
+>>
+/StructParent 32
+>>
+endobj
+59 0 obj
+<<
+/Subtype /Link
+/Rect [552.94 124.37 612.22 133.85]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Voice_control)
+>>
+/StructParent 33
+>>
+endobj
+60 0 obj
+<<
+/Subtype /Link
+/Rect [31.68 87.984 215.66 99.384]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog)
+>>
+/StructParent 34
+>>
+endobj
+61 0 obj
+<<
+/Length 2805
+/Filter /FlateDecode
+>>
+stream
+xœµ[İoÛ8ÿo'-F$ERZ,h»×»+ĞÛpí>(6cM$¯d7Ûÿş8CI?Q·ªCËÒ|ÏofÈ›7õfu_Ì6äí‡wäÏË‹„$4±ÿr&¥ š'$M$©ÍåÅÿ¾#ååÅÍ¯¿K²h./Yìî‰dÙŞİ÷ß]^ü÷ò‚ülKn~_%ùá‡›ïŞÿD’›ÿå‚D¦Œü‘¼ıÉ½ŸÃÍs’œxïÛ[ûî_ášæŠÜŞöí„Á¨–œ!©$·@ÔéÌÎ„üzyñ)úXWñ5ªE|-"_§Ñº†n¡.àúø¸*»ïóè¾ªá6òæ}ü¹ı×åÅÏ·/òÄÎç‰–P™¥§˜â9£,w\Q&Ê?ì˜RÀÂ |ŠĞO¨´+`Cb–E±”’aBE`B³œfbŸPk´2çöª¤}Èâpå7$ıH¯+0‡‰5˜‹´p-ãká9,=æ‹éÜÚû€ü‘	ûÚm±01˜µŠŠ¦©ìÇ2VlìŠ™“˜çÑSœ9n`mé¡)˜#‘$Ô.ÖT*¢‘ú{¸à§–ÅçĞ–C§+dú[¦œ™aUhsI™z]‰ä^jr;³¬–sÅèÀd¦LR•WÌ¬z1¯·ë>E¯¡ª,0£Nv:°Vº‚åîv
+l†yÍó*…•|6äWt˜°|
+a9Gt	š€©H*Æèàˆ”YÑÿá‘Ä&eæ4§CÔ9$sO’'$Ş“$KAóôLš…'Í“sñI Ä5£Š½Œ€ÂÚF~ÀAÈlV–Ñ²°Ù9íâ¾Ä\­İmÕ&ÆÜİå8ÀÃ&'ï}Î˜ÅtÙ>g^Ú¸ï33pbÊ0å“Óóå’ÓL§üÚƒÔÉy÷TEE:Ôª›ÚšZÌ-©hæÁÃäLºÏO,øO‡\àÊÚ2R[øØòä,z@"Ë1²œeËUıˆH]—Ä"-ğÉyò€-=óEK[XmË =óK|Í’ÈØuHÚ*¥üÛTÆ¥©}ô4)Ñˆ¦™¢ÉzZ×P¤Xd£ÖXœ£vHÂ°EãĞ†OJÇÇœ¥ù‘¾æ$§FWÑÉM§–¾¹›ç¨Ìu½zDİõêÄ`ÕÊZ¿Ãdãã}|R^9GJMù­ÎÍM¶¨‹–~~<ª8Ïg…‹}Nèo¤~o“cê_PÎşÏc;®ìŒÀüµ®MÓ§ú(8,a\Ğ²÷ñ,ªîáç=º0hSÅ¦ÃUÙ\u¹¿‡Çš3G£AÓÁ`XÌZdbëWñÀ¸D*)s¬5g[äÜËÿciˆ«!û¡ÿ¿q¹FÚ24ô-±5Xšh¦è>8Â_e[Øe½³Ït®rª:Så
+xì9@sDS–Ñ]µì÷¨µîÕèEö[¯6ãˆ“`˜ÑLñõg¯!ÓÅïo´;LÙò9¢µr‘ÔfùÖ–Öç(¼"<Ên>	èØ‚ğ çH‰93U4YŠ(µ,yÔƒ<4‚i€+ê…»D#Á¸}˜POØ,$¶çæ+@3§‘jmæÎË°[¹ÈàÂfSv$²g9áƒUjQ7»<øJ¼˜>ğÿRåÌ`šÚıŠåšw¯ëœr¸‰:%œ¦ÙH½ÌàMÏj¡ÆrÄuôÍù¡í!këÅÖ–RÃ\E©…ºP¤¾n(O]ß=T‚Èp‰íÚwëµÓÜoÈÜÖb=œ¼+šİT>İ?)‘S{ëh%:îL½ñœ`„atdT!üßú0öº›/à™¨©x`z\‘	šê}N‚W0™™okh·­{õ¼swàmş|ŞUÆ1S…ı-…_pÆ^ÕÒ?q
+	•Àê™.¶D“ú(ÇÙN»î§å$ÃÂ'J#ŒÖ'X–Ğ×ôì2!`1ÂÅ¨]tÔA”ÕÔBòÕrKdÇeÿ•‡¨C˜\Cîb¹€še$„Ñ~F‡0	Í†”à£†€¢olƒv§HÔHÕl:Œ±®ÖÛ]R®±úuº«ÛÛše;[¢™élb{Û¼øç}kë8;6¦…µİ”Ë’ußÕÆx„¦40zé|E§TñWÅ‰»•ÌVE/*l:®ÚBPŸ€{{@İ5òì/
+”E±Ã
+ÅöSE…È×a(N'lP¿3¦ì Ãš÷¸•Ã§=˜†n$å	Õû²ôò&g‘UmP|Klè°Ò#¶D©RT™…GÀJ'£€•ªÜ&WKW-æ‘+óXiàŞJjñMr†Y˜¿Ö®”Qƒå&çY Ü=h6+|Œ",4‘ÒÙê96‘{ÚD`ˆ"­ççEŠ¶uºk‡>Å.ô©Æ?hü(!,±!dê‰Cº•âLaV¢‰Ÿ•ÈÀÉÙRB¹<ÏL0^¬} …ü{æ)L%”¡úœ'§=P‘ïÓ~Ë°yÏ_ …Jiz–3Oœûòc[8ŞÅÏT:b›½Ïês=Şd‹- ÛÊ]c“«ı`Àƒ£à»R(×ò¤Ìw\q&1ÄÙ†Ì=9ô¦®€àyºÎÁS»‹Två‘Ä/Ø³j¤U½Z@±âòuñĞOAOÏŸ7ÜÓçXÏ>›ÚúÇ5Ì‡Å¸(O¹¤Y6ŞJôšm_WÖ¤ëû5vV|œIÎÃRf€”ï1RS·$¢HFå_~¾¤&%Ùcªµ¦lÕ£3z°ŸKhŞ²ª¹©K°å-Æa²gà¥–ú©6%ñú¦fUâàÎuoÜ¾Ïf»^W?›¶Ãµë¥Í°yŞèÁ>Yœ†ÙœÑa×_ºÇ¶—‘-êb½tÌ»u.®Ö$Ş‹Ë5¶™Š™O'^Îí‚'4ĞèU×•JIÅUılÏ"pPçN›®kéî· ­Äù
+<³ªqvÔnŒ(Öë‡¾Ë=;W¡Ï&t¦oS7W¯”Âæ¿ê÷¥h<ğÒ&<ôAƒ\Ğœî±XMNó‡”iW½NYãNktˆXæNŞà Ë“µ™u‹g‡rH,üUáF’M¿°Ä-v0»3¥Á©L	ÏŠÜ»ĞåÀ¸tkğç•è±#OOÆGG–lñP¢\ŸQ–Q­†(Ã¡<‰óıÓnP³Jü6&´Ncœ–À|¤?KæVL7Í–h0FÑÑ•YÀ«¢+¿Ñ¹}LQJNó}yåyT9qàgV•0ıAëó:ô ÅR˜É9å7œ`èúHs….{oııMÈ„1˜š¼Dö®èÙmz¾iu×.Zï6…ùde=qğS¼äÖNFXÒlh³Áƒp¸ãûøïÆà¸>Ò'Äe_V°ıÖE2{™ƒÛÖähe×ë…uÒ›g7Ş|Ä`hÓøœG½¤U+€c²1‹£2‹âµ$–3ÆUª[x¸¼àLÂHæx!£RàB÷“~¡{h¿°t‡ÂOÒ6±ÿf§¥’×lî-ûÆÁåœ_ @ï¿B\+Éçˆ'Œ©ÓLÀâ˜|Æ4MÅ ù;ò+l) ¸IÚİî€2û-«BÁivâNÊ" ¼Çë¬u<u	¡İßåÆíßzèï€3²ˆ=2±µ¨Ï$¥I6 Ï‘FºY¢Ìœ~OĞù$<Íù
+endstream
+endobj
+62 0 obj
+<<
+/Subtype /Link
+/Rect [229.73 242.83 443.23 254.23]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.swi-prolog.org/features.html)
+>>
+/StructParent 36
+>>
+endobj
+63 0 obj
+<<
+/Subtype /Link
+/Rect [441.19 245.35 442.39 254.11]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.swi-prolog.org/features.html)
+>>
+/StructParent 37
+>>
+endobj
+64 0 obj
+<<
+/Subtype /Link
+/Rect [110.18 212.59 128.54 222.19]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Free_software)
+>>
+/StructParent 38
+>>
+endobj
+65 0 obj
+<<
+/Subtype /Link
+/Rect [234.77 212.23 343.37 222.07]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Programming_language)
+>>
+/StructParent 39
+>>
+endobj
+66 0 obj
+<<
+/Subtype /Link
+/Rect [346.13 212.23 376.87 222.07]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Prolog)
+>>
+/StructParent 40
+>>
+endobj
+67 0 obj
+<<
+/Subtype /Link
+/Rect [537.46 212.59 601.9 222.07]
+/BS <<
+/W 0
+>>
+/F 4
+/A <<
+/Type /Action
+/S /URI
+/URI (https://en.wikipedia.org/wiki/Semantic_web)
+>>
+/StructParent 41
+>>
+endobj
+68 0 obj
+<<
+/Length 2714
+/Filter /FlateDecode
+>>
+stream
+xœµZë£Fÿ>Òüıå$ˆÖ=ôƒî¢HûÈE]N{·#E§ì}`píÃğ>şû«ªì18°Á·ÒzLSİı«wU·ï^VÍî1Íöê§×ì÷Û›€<€‰CÅ"0„¬²·7?ÃŠÛ›»Ş‡lSßŞ¶9R« ñ3êÇonoşu{Ã¾‡eÙİû§´`ß~{÷Óë·oXp÷´Ø0Ïşwß±WoÜ¾´"™°`dßW÷°÷ß“O»D °;L	…’)òİïÔ†pÆ„3`?ÜŞüâ½«ÊÜ_I¯Üø+å1¥½—u½Ã‡MŸ{€ï›Úÿ/»ÿñöæûûSŞõèE‹™øc’I!¹ĞLrÀ!ã^‰àì	DÂÏ	„Œ¹6Ç"sN ü¬(“(­¸<Y^D†Gº_ÃÜœ“˜@œŒ¬aÍM#Œù`\ Ø‹7†…IÄõ`™ /-‰ˆ¸ÑçÚğØtc0t‚8»%B.Î%Úá0ô³†I„âÉù"F\éÂ®Ï‘vÛ„Å¢ O|N2für‰ñƒì©Ç¬_&š‡­ùğ„œ“¾õßû«ÈÛZ‚é‹Ä+?ú±g«4ÏáQxå¾ùÕfÍî£/”gaÔxå£¿ÊMh¶è#»ÚÇçÄKÁu6ğ·ØãÂè9¡×0_F-	Î_«öípp{ÃJ%9àÆ7^º#—£ê–2íÎÛ©‹5~ûã3™ª+ËTƒ/è)‘®¦qé«ã
+¹2SÀÊÂ× S	
+şZ~"­W0¶s.³0Ê>ù  ]³yGŞS… ½Üî»¹u™$’bãG; Ò \*µS†Ôõø‚MË"\&‹Q› DåĞBnñG»=òø„Ã9Ø™4š©ğRÉšš¡IâwÊk—'DìU‡Ü¢àêdœ•Í¸Pâ½²ŸàŞ-@ßèEC†ıàW[ø qo{’ãÜ|È ØtTQ<õ´´Ğ.Gİ6;TkMd„Éñ†Œ£ï†íáä)ù+®zè—Â'"áÓº4ÿ]êëË6ıåæ†8b'‡
+,Ì;¥@D!‚J|YgçÄ}O·›æ0º"‡")¥ş1‡3ÂI|UP	S˜ZŸHıƒ73iÁamBb…b¢UKKI¹[jÍ¡Z„M•¢<Üä·7*1ò¬0ç'º~Én`{9õŠE…ç™ iãø™ü>ù7É”±iz?®ÿz‡îÈ2ÉXéƒÏ6U!®êª¯æj†õŠ…•ÏNÃƒ?!ıEó’²#Ö2w®Ü±Ç`M5KekÔNqûŒ.,G§|Lè¯g4Ÿsayr†S¡ËN”şX*(ÇlÆŒĞ`8dB)‡¿²÷¨âŸßÎ€· ùÁ¡‰&áÍñ¯9kd­i¹u‰+¡ÍËrØ $¶×jäËµš*İtF©*’ë‚0$Õ3³|øÑî’ì4h¹,¹Aã±ƒš%Y¨ºŒ¬¢<R­LcôÍª€}¤İšTöï˜¯÷øØö§‘mqÈ:Šiö—eÁûRiË¯×tRìµ°=*J‰]€æ«Ø	p­t3G¯ËÒæ0jÃÿ_ÎÏÁñm¯Ëeypˆ<2<2È~kAYyÔ@YäØĞA5‡Ú®J;‹Ãc
+<â€©6Í¶;œ‚úBM­çØŞ²D:Œ¼*âá×«¨¶ÄqZ4Ø¢¡emİÃ6–µè6ğÀ0šŒ éÓSŞ{I–öØË¢Ñ‰Êe­è¥bAÄŠ'ñEÌÿ³<T–ù‘g??Ù¬!›ŠÉJ|¹¦ÏöølêÇò¼,pµRV¿¡ÆN A
+{;:õrÙŠN¨¡U/\<%ÕşL\º¶˜HA[nªòğ„«B4ú•¢h†İš.í–ÊÚrêœÃ&É‡ÒÖ{€š@E®‘Vè2Hb‹¬<t!"¡·eöĞÖ íü¡Şèª"6šİg¿x»òÊÕ
+]Çá”u‘ı|ğç+*õ›¯$.á³Å†Rù†4ß™“00PØŞr—ËCoí,,;´¶Mgoè 4™Ìpà)™K•uí‚Ú¯­é„™*¢MZ­ûÄÚ®gÇá¸Ï¼è|æáĞĞq  —İaZ p/×IRZ$?Vxn¼®ˆÔx@Š‡“ˆõÂŒv>–9‚5í‚8+l¦O´¯\Íá…G¨&5Kjœsà~åjo[ mœ€7xo€(ÖÚÒ{R§Ó÷4×.®Z
+5OôE>(ê¦³ç+è.ÈÖhv^òà¾s³·ø.#£]ƒÍ×TÒ ‹ğyØG\ÎÉötn5–zïÌû#*ªæ£óe[3×¶ÚQ	¨iaÂ=#«e5"tfô:LÈcˆu÷Ô$ù×(·5ÖCtCåJ?è>@X›£$WPbïz/¬Ò÷x·÷û‹Nª1
+ìè|+Æ½ÅãúÆÁ×[x€”hhÙ5{°3-rA-)Ç"#ÍÕ%y|Á r<jÌñšùZ#røŸ!z¼7 p,"fdLµ¬†Ñ§Qt<Ÿ÷w/I¼h·ªÑ5ë+S*±ûÉlÍ°Ø–‘Y%UAXa´ÇW$ºˆóöÿõ.;=Ê¯·£Kâ©l†ş}¼ÓH±x?˜#_|I&GÑXË6 Ò|#ËN›€‘q¿bÉ#YÆ§ºP?nYİ6 g£‹àxŞ`ån£¼Î`ˆ¶è¨¨LJN‡wm| «ÇOXTt£ç¬Q÷¹¬¤xëµ¶0½ÎzÂ§~íøxc—¿)ŒbØÁôí·‚öÊ¥ø´ÆaÚœßt¡O†íh÷tgØC­‰Aúº…î‚0mq_HÇ±wòÒÒ/¨›@•Yº€¤Œã˜ÿŒ¶ø”Óí?|ŒBĞÙ\ç«‰“ÆŒvB-+„‡
+¤ëq…c¡UD]Ä~†§èe¥Ü%OI7SlaW..e­eÈ{0>®R21F¿Rí\œñ€ºØ`á:séMsËRê0‘Ô”W&Òí8­àÌºF úËß5O*`Â—¦îU7ÛV{W‘Ã¾i·$ù¿«à¿øBøC[î·³päÎ'TU·VJ¼‘=^Û**Ó9ÈÁ@ı´Òzé¸®i“¡ìÙ¬1—º
+ZiÌ0R½¬h©¢Ÿ?ŒÂ‘‘Õ¼^VA›«. +÷g¿-šF·¸DõŸ(ÆŸÒŒÊí‡\´²U¶«­;@é‚rÖ¶Å(~?Zàmá³ø­Ü¯¦\¹c¹X4®|‘EşN’¸g²/‡ör£{›wkcwï•«ÖCgç'!øèk½Ë–•Æ“£gŞ;¹<9:u–‘RG²‡kŒÃ?Ÿ«Iª{cøŒK½ì uÄP5—â‚)Øzë,®wÏA©®3†óN$”wæüàJ/;½ä7PK=,Ğ.d—óbår~ŸeœUQÅTµ?0Ã"_uçŸ½Õ¶&ršpœÏ+›Ú•6m*7`ô‡±¶ôzq¹D
+endstream
+endobj
+69 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F4
+/BaseFont /BCDEEE+Roboto
+/Encoding /WinAnsiEncoding
+/FontDescriptor 318 0 R
+/FirstChar 48
+/LastChar 116
+/Widths [562 562 562 0 0 0 562 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 544
+562 523 0 530 0 0 551 243 0 0
+0 0 0 0 0 0 0 0 327]
+>>
+endobj
+70 0 obj
+<<
+/Length 1344
+/Filter /FlateDecode
+>>
+stream
+xœÍXmkãFşnğXè—Õq^kwõZBà’»i{C)¡Y^Ç[r%ù®½_ß™YÉßb§vJN‘÷õ™gfgUÿCYgã$­ÙÕ—kög·ã2W¸ğ/–¾¯Y¨\æ¹>+M·óÛ;–w;ı›{Ÿ=UİdO«ÑÚõe´6zü®ÛùµÛaŸ`YÖ¿Ÿ'9»¸è¹¾ıÈÜş/IşÄ¸ÉËKvõÑîKëH7T1swì{5€½?+&•ˆ6# ØI¦¼HÄÓÚ
+zfˆê‰€FÔe7€£‡xZ±AúÀïÃYVUY‘3§§#~³ÈFfšå¦êßæNOº¼ªË…Ó‹yZgø§ÀG^9°ÁOİÎ§Á^ÛäymÓR„¾bÚÕB{+Û¬I¸¬Š"²èº4IÁÎNOy¼x‘ÿÍûuRâŸ³)6|\`KÈ«†Gó"?l›ú÷¶I&¥p½5Ûk›
+}á…¶=ğß@V‚‡8säğ«úæ€%¦¬ô×N1GÆöu’Á°ŠÆ¢UrzÏg&¯í"*â4?s|>mşc|h»Ke-Í†Ç42g•™'eB=À vùõ–ËØ3âÄ72+È2ä	vŒ
+µ™´.J\åoGJ;"M¦ĞK«Œ.|±¨MÈh›ÑÔËÇX«tB^´3òz/ûèJM€,æŸ ¦pĞ£úm<¸Bé-•Uä©yÏĞ·È‘@N!o£Y#$AóÔR†<c>a£¬¥øe:Ë#ğÎK€
+´½}Å	 Öüq'¾»%8ÿµ<¯Ã‰kp„Ôš ÑÁJ2åBÌéŒÈ<ˆh’®‚Gp˜Êà¼Tj&?ØM%f>ß)ñ‰#¼Z(¼½^`Î™Øtùâá§„eÊ„šÓ	E%¡	ì†òˆ%ó¹`‡gEéÎæŸe"(¾ájÕ‡©ˆŞæÄk-¤Ü¢â•iì øøTğÁ:z	e5ô™r}mW yYÛ?Ã“ Ğ€ùôp‚ÂÙÅrƒS†‘·q"•f¦ÆÑQOĞ)/!ô¥ğâêã¬6v;[*OèÎö^åì·)¢q(¤»)ùÖÊ;yó¦Œd@¡@BYÕ”!"[lQPàKšÔ(g`R2D­÷'ÙÑVßÔ(!V9kç¹u@?^”àÆƒ:Éß›æŞÛÂ‹~RgØ¶–â&ÉWì5ô’¿)®(á=C2ja®ÂJ¶a´¶¢‚2l:9¢HÈ3kÆ‘„ËÉ¶÷ÈĞ´È[¹“ ò}iµíª¢ qé¢UµÀğ]ä â	JÕd¥£SËfZà$³\Üjh„3kÂY]ÊfØtƒu)Ş”ºp.a¯J5Ç¡i¶æÍ•çlÔİ‘ÿğÀaeûA6
+¼“ü£uÖd=êé]º¾q9ˆßä?ûoâç ¤–·íç­X„²Ú
+åöÒ²e¼áıwñƒÂâÿ@A?GøúÌ¢´ñ5T¹@mûzÅß°¹É4‘­ı,/Ñ`„ÔU>Éj±ìşÙñVÙiäb²,\ØÛØÁ!õrÒ»i1›S6UeìnËK+9÷ù5U5Õ‚}oêÆ¼Oõ §lé/ÊôÀ8j®š‡¹?Au«¤&”ï`‹ú,°xj9±!¯X‘ˆÖ/€B_4Z‚ñ û>ÆğSMì7ß.¤Åø]À£&ğÒ‰Ÿbü'1;‚ŠT÷.*T¬…·‡‰ŞpNĞÑ»á„{À@Z›SJ¶Aı¢ˆg
+endstream
+endobj
+71 0 obj
+<<
+/Length 1119
+/Filter /FlateDecode
+>>
+stream
+xœµVÛÛ6}7à˜Gr±¦EêfAŠ½5HÑ mw<ìö¶eY€#9’İ`ûõÊòM­:»À"9äÌœ9sÈáMµÊgv²‚ÛÏwğ­ßóÀSş%:}ˆB•ö{_® è÷†CÈê~OC¶µö½Pö¬gWıŞïı<à±0|\ÚŞ¿~¾ûtŞğW[d ÒB~ø ·÷Î/Ÿ£½Ø$àuø½}Bß?k0±J"xšQ è4øZÅ¡ßUO_)¨Œãqœ|ì÷ÅM]çrà‹¬ ß¯è{`Ä
+4àÜH_–`Bßåš¾‹U%ÈSšªåŸğôK¿÷ğ´›ßomrºIÉSIÀaX±gÀxFyŒB C¥M“6Zé`c¡COÅæÀ¤Fs	ŒÚWá(èÂÑ$¾Òzä?Àÿ	_ä@G¢ÊW©Ôš'-HßS»BíØÖWÊså¬ÙgS¨9f"µ/&4(×ˆqÖh€»´³X¦†}&Cñ*5~a¶Ò`ÕğŒ9/lE%Ií5~,-ËåzaW9N”‡b‹)PÀmD‘æÙ|\ryktÃÎÛ7†]ß«„i%:	mâ@ùñQ!òbšÿEÁçÓµ%œ»8Ëw§ãŞ&n?Q£cİbQ^$ÅGØ>à¨˜oúÍ¸ğSï ïL™WÜ«D¢1ï@z„Ä/“ˆïXµœíašN¹]ù(šÊ©ğf$˜$ëÒk‰k.®Ñ"U™:Qøÿ!ò;›Õ@“`{ûGMÓ‚{3"Îc/‚SxÄ¨¯ZŞŠôy2øè¢àQÌ~ğ,Tá~ğ
+¢W«lwô§3¼‚şkMz’Âbi^A¨ËHfe"&ÄÚ YK&ˆëÆ¼7¯©µï¯†§³ß„Í:6˜ÓQ¥X¡ÖJjÎá2[¢rKîÒ8¤*åbQ~—’i·é•L—âPÎH'¿q'§ÍÅSoD”Ç®M°1–¥»‘0§©ãEªpÅˆOMS6\›—®H‘±¿‚¹=ì"ÿ[mº¦œ¶ØoÙÈNÊ±;>›š0­ZW¼…Ó­Q7çqªÛ<Æùªr_ÍÂÉŞ¦Ä¡¯FÇ%v2ãî©ä@__		%ÏêÂä¢ |ìwaà+Ï7ÜŒÆD<XÓiò,ôú¦/zŒu\;L»¢{ôt‰y>AŠÏQˆY¬ü!Ö¼ÚõP^ómÉp÷¶Ş¿©‰îx-ÚŸÎHX_ZîjàãíB\/"Åj˜sªqñ›.ê,FGpÏZÓ¯»W®{R±¦Y`Èib\ºµˆ­I£Ìv–iËï©CÜŒ7†
+9Î³lëˆ'-¹¹Ú7[ãê@‰,,l•mµÑêdÑ¶nã(˜>»Ã‘ËtÿÆê”ÿ ˆA~ğ“­!ÈQd?‚w|íä…m‹=æxä=¦î²rrÜ^™Û+v§Ğ{>»*ıAŞA'
+endstream
+endobj
+72 0 obj
+<<
+/Length 1288
+/Filter /FlateDecode
+>>
+stream
+xœ­XßoÛ6~7àÿá©`–IŠ”¨¡èĞ4Y‘¡²ÆCÚ=hl‹¤ÔÒàå¿ßİÉ?[•ÊªHâ‰üîîã}Gß-ël–Lk¸üô¾¤/ñ_¬¬ ÒŒ´°L‡ƒ/PãwæÕp `¾³¤Uî…õìb8ø}8€kœÆwIoŞŒ?½¿¹9ş˜siá½}—WÍº<’‘A¶¬{9ÁµU #?a2# ¸:(”YA`}“œ@Í§cœ>_Å»ªÊ¼Q æ]s\{¤Ešàgğş„ÉoÃÁõä(ju^ÔZß…û¨×`on?¤Ï(2~Øˆ’9“éW¡¥V§±gN±Á`¹#ÁªË¼‘KNl’§”Ø¢nÅx»hÖ°¤frúä¢VÎ5D´ôU¸¥²RÈ2·¶j8ÔÏ†]Lc/-´U¸ÔÆ"p¾vû±ôõÆõô1İhP&À¿àœoCPÖWúÀBã[\LûT@fk|»3P¸J¸o²™Cb°İÿ­âB?¦@…'lŸ$Œ|ØöI¬IÆùNÙV¨øÑÎ€à8³gÒF=Û‡z{©M[yÑèƒ	òù‰™€|Ã$üœz¡xô±L=#*ºøTƒ7ŠE½H=+ yjE=-sHñ?E¢Ä›g¼{x Ãš[«“»-<·ËRa6Nxœ'èc=]ã<pòàÉS†qß7êHdšì9•—ô²^@‰³ìüçf
+NóåbEÄ—ZâU£‘ê™¨_dZ‰€t·ÑÑ°$UXîŒ°¬í(IMAş+Á V)FØŠr¶N3tF%´¤ğ?”xYyZS¬˜£q Å¬\æ§½‹Ü»`½Á_Ä+sŒb‰«ÿŠ!³štO+qÅ²î©@ü„üÒ‡kôü›G>¿:-ø=ú”6?XBâc~ŒÔÅ$M`î)Ù ï³GcÒ
+¥Ì÷.°ÏÏÏÉœ7qVTŞwvÇ÷hbÚÀ³Êºcà1¼¹uÂÕ£iÅEÚ~×53Ìÿ¸2Ó«vî®¦ª)óC`_0¥R,)±e4åèqKešŞ¦÷X ³)Õş:­¸l’“_ÂôÉ\Oø’ÍğıSWZ÷ÓñCZÇØŠq“]kv^Õğù4¼~š{Hìex_VÔ%®r!ğV‰)w»u:/—TÇ3Œ¾Y;¬ï’É¹;×ìI49 ®Y736sÛêÙÜò+Ìiº$#ùÎáZ¸$M—•ê](²¿ÓÍìH\vTI°ıAÕÈª¦h˜KÚ5ÄıÄû(Ó±'B¼Î5KÑcHôïjãÁ/p÷P÷Vı[ã6tB9Üluwâ·Q@#ªßiğıÄ[kŸêè™7¿˜0ÂÑåüùÓçF/¸¼ë@½èÑwçKç£×À]‘Ø‘
+RéÓN¤ÿ&¼£ê‡'Üz=„½–IÖ©NRÂ¦‹îYØ7™x¾ìA#İ…FºŸ®ë6àxªMWÄLèWtş*É¹¢ÙÂ˜£ŠŸsÚâ)¿Ì©N&t‹çÎkx®yËŸŞ¯;‡½qU7¯›«‹¼ë37ëØE’~8éA§¤÷hM“ÇE¿´øÆ½6é öè. Ò¯€ºjı/(É„ÁÃ¿aRÕ;âĞ#³ëR-^ş¡Šú
+endstream
+endobj
+73 0 obj
+<<
+/P 319 0 R
+/S /Span
+/Type /StructElem
+/ActualText (AI 1100)
+/K [0]
+/Pg 8 0 R
+>>
+endobj
+74 0 obj
+<<
+/P 320 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Artificial Intelligence )
+/K [1]
+/Pg 8 0 R
+>>
+endobj
+75 0 obj
+<<
+/P 320 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Assignment)
+/K [2]
+/Pg 8 0 R
+>>
+endobj
+76 0 obj
+<<
+/P 321 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Prolog programming)
+/K [3]
+/Pg 8 0 R
+>>
+endobj
+77 0 obj
+<<
+/P 322 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Prolog programming for AI)
+/K [0]
+/Pg 9 0 R
+>>
+endobj
+78 0 obj
+<<
+/P 323 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Prolog)
+/K [1]
+/Pg 9 0 R
+>>
+endobj
+79 0 obj
+<<
+/P 323 0 R
+/S /Span
+/Type /StructElem
+/ActualText (is a  )
+/K [2]
+/Pg 9 0 R
+>>
+endobj
+80 0 obj
+<<
+/P 157 0 R
+/S /Span
+/Type /StructElem
+/ActualText (logic programming)
+/K [3]
+/Pg 9 0 R
+>>
+endobj
+81 0 obj
+<<
+/P 323 0 R
+/S /Span
+/Type /StructElem
+/ActualText (language associated with )
+/K [4]
+/Pg 9 0 R
+>>
+endobj
+82 0 obj
+<<
+/P 158 0 R
+/S /Span
+/Type /StructElem
+/ActualText (artificial intelligence)
+/K [5]
+/Pg 9 0 R
+>>
+endobj
+83 0 obj
+<<
+/P 323 0 R
+/S /Span
+/Type /StructElem
+/ActualText (and )
+/K [6]
+/Pg 9 0 R
+>>
+endobj
+84 0 obj
+<<
+/P 159 0 R
+/S /Span
+/Type /StructElem
+/ActualText (computational linguistics)
+/K [7]
+/Pg 9 0 R
+>>
+endobj
+85 0 obj
+<<
+/P 323 0 R
+/S /Span
+/Type /StructElem
+/ActualText (.)
+/K [8]
+/Pg 9 0 R
+>>
+endobj
+86 0 obj
+<<
+/P 160 0 R
+/S /Span
+/Type /StructElem
+/ActualText ([1])
+/K [9]
+/Pg 9 0 R
+>>
+endobj
+87 0 obj
+<<
+/P 161 0 R
+/S /Span
+/Type /StructElem
+/ActualText ([2])
+/K [10]
+/Pg 9 0 R
+>>
+endobj
+88 0 obj
+<<
+/P 162 0 R
+/S /Span
+/Type /StructElem
+/ActualText ([3])
+/K [11]
+/Pg 9 0 R
+>>
+endobj
+89 0 obj
+<<
+/P 324 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Prolog has its roots in )
+/K [12]
+/Pg 9 0 R
+>>
+endobj
+90 0 obj
+<<
+/P 163 0 R
+/S /Span
+/Type /StructElem
+/ActualText (first)
+/K [13]
+/Pg 9 0 R
+>>
+endobj
+91 0 obj
+<<
+/P 163 0 R
+/S /Span
+/Type /StructElem
+/ActualText (-)
+/K [14]
+/Pg 9 0 R
+>>
+endobj
+92 0 obj
+<<
+/P 163 0 R
+/S /Span
+/Type /StructElem
+/ActualText (order logic)
+/K [15]
+/Pg 9 0 R
+>>
+endobj
+93 0 obj
+<<
+/P 324 0 R
+/S /Span
+/Type /StructElem
+/ActualText (, a )
+/K [16]
+/Pg 9 0 R
+>>
+endobj
+94 0 obj
+<<
+/P 164 0 R
+/S /Span
+/Type /StructElem
+/ActualText (formal logic)
+/K [17]
+/Pg 9 0 R
+>>
+endobj
+95 0 obj
+<<
+/P 324 0 R
+/S /Span
+/Type /StructElem
+/ActualText (, and unlike many other )
+/K [18]
+/Pg 9 0 R
+>>
+endobj
+96 0 obj
+<<
+/P 165 0 R
+/S /Span
+/Type /StructElem
+/ActualText (programming languages)
+/K [19]
+/Pg 9 0 R
+>>
+endobj
+97 0 obj
+<<
+/P 324 0 R
+/S /Span
+/Type /StructElem
+/ActualText (, Prolog is intended primarily as a )
+/K [20]
+/Pg 9 0 R
+>>
+endobj
+98 0 obj
+<<
+/P 166 0 R
+/S /Span
+/Type /StructElem
+/ActualText (declarative)
+/K [21]
+/Pg 9 0 R
+>>
+endobj
+99 0 obj
+<<
+/P 324 0 R
+/S /Span
+/Type /StructElem
+/ActualText (programming language: the program logic is expressed in terms of relations, represented as facts and )
+/K [22]
+/Pg 9 0 R
+>>
+endobj
+100 0 obj
+<<
+/P 167 0 R
+/S /Span
+/Type /StructElem
+/ActualText (rules)
+/K [23]
+/Pg 9 0 R
+>>
+endobj
+101 0 obj
+<<
+/P 324 0 R
+/S /Span
+/Type /StructElem
+/ActualText (. A computation is )
+/K [24]
+/Pg 9 0 R
+>>
+endobj
+102 0 obj
+<<
+/P 324 0 R
+/S /Span
+/Type /StructElem
+/ActualText (initiated by running a )
+/K [25]
+/Pg 9 0 R
+>>
+endobj
+103 0 obj
+<<
+/P 324 0 R
+/S /Span
+/Type /StructElem
+/ActualText (query)
+/K [26]
+/Pg 9 0 R
+>>
+endobj
+104 0 obj
+<<
+/P 324 0 R
+/S /Span
+/Type /StructElem
+/ActualText (over these relations.)
+/K [27]
+/Pg 9 0 R
+>>
+endobj
+105 0 obj
+<<
+/P 168 0 R
+/S /Span
+/Type /StructElem
+/ActualText ([4])
+/K [28]
+/Pg 9 0 R
+>>
+endobj
+106 0 obj
+<<
+/P 325 0 R
+/S /Span
+/Type /StructElem
+/ActualText (The language was developed and implemented in Marseille, France in 1972 by )
+/K [29]
+/Pg 9 0 R
+>>
+endobj
+107 0 obj
+<<
+/P 169 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Alain Colmerauer)
+/K [30]
+/Pg 9 0 R
+>>
+endobj
+108 0 obj
+<<
+/P 325 0 R
+/S /Span
+/Type /StructElem
+/ActualText (with Philippe Roussel, based on )
+/K [31]
+/Pg 9 0 R
+>>
+endobj
+109 0 obj
+<<
+/P 170 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Robert )
+/K [32]
+/Pg 9 0 R
+>>
+endobj
+110 0 obj
+<<
+/P 170 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Kowalski's)
+/K [33]
+/Pg 9 0 R
+>>
+endobj
+111 0 obj
+<<
+/P 325 0 R
+/S /Span
+/Type /StructElem
+/ActualText (procedural interpretation of )
+/K [34]
+/Pg 9 0 R
+>>
+endobj
+112 0 obj
+<<
+/P 171 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Horn clauses)
+/K [35]
+/Pg 9 0 R
+>>
+endobj
+113 0 obj
+<<
+/P 172 0 R
+/S /Span
+/Type /StructElem
+/ActualText ([)
+/K [36]
+/Pg 9 0 R
+>>
+endobj
+114 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Prolog was one of the first logic programming languages,)
+/K [37]
+/Pg 9 0 R
+>>
+endobj
+115 0 obj
+<<
+/P 173 0 R
+/S /Span
+/Type /StructElem
+/ActualText ([7])
+/K [38]
+/Pg 9 0 R
+>>
+endobj
+116 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (and remains the most popular among such languages today, with several free )
+/K [39]
+/Pg 9 0 R
+>>
+endobj
+117 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (and commercial implementations available. The language has been used for )
+/K [40]
+/Pg 9 0 R
+>>
+endobj
+118 0 obj
+<<
+/P 174 0 R
+/S /Span
+/Type /StructElem
+/ActualText (theorem proving)
+/K [41]
+/Pg 9 0 R
+>>
+endobj
+119 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (,)
+/K [42]
+/Pg 9 0 R
+>>
+endobj
+120 0 obj
+<<
+/P 175 0 R
+/S /Span
+/Type /StructElem
+/ActualText ([8])
+/K [43]
+/Pg 9 0 R
+>>
+endobj
+121 0 obj
+<<
+/P 176 0 R
+/S /Span
+/Type /StructElem
+/ActualText (expert systems)
+/K [44]
+/Pg 9 0 R
+>>
+endobj
+122 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (,)
+/K [45]
+/Pg 9 0 R
+>>
+endobj
+123 0 obj
+<<
+/P 177 0 R
+/S /Span
+/Type /StructElem
+/ActualText ([9])
+/K [46]
+/Pg 9 0 R
+>>
+endobj
+124 0 obj
+<<
+/P 178 0 R
+/S /Span
+/Type /StructElem
+/ActualText (term rewriting)
+/K [47]
+/Pg 9 0 R
+>>
+endobj
+125 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (,)
+/K [48]
+/Pg 9 0 R
+>>
+endobj
+126 0 obj
+<<
+/P 179 0 R
+/S /Span
+/Type /StructElem
+/ActualText ([10])
+/K [49]
+/Pg 9 0 R
+>>
+endobj
+127 0 obj
+<<
+/P 180 0 R
+/S /Span
+/Type /StructElem
+/ActualText (type )
+/K [50]
+/Pg 9 0 R
+>>
+endobj
+128 0 obj
+<<
+/P 180 0 R
+/S /Span
+/Type /StructElem
+/ActualText (systems)
+/K [51]
+/Pg 9 0 R
+>>
+endobj
+129 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (,)
+/K [52]
+/Pg 9 0 R
+>>
+endobj
+130 0 obj
+<<
+/P 181 0 R
+/S /Span
+/Type /StructElem
+/ActualText ([11])
+/K [53]
+/Pg 9 0 R
+>>
+endobj
+131 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (and )
+/K [54]
+/Pg 9 0 R
+>>
+endobj
+132 0 obj
+<<
+/P 182 0 R
+/S /Span
+/Type /StructElem
+/ActualText (automated planning)
+/K [55]
+/Pg 9 0 R
+>>
+endobj
+133 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (,)
+/K [56]
+/Pg 9 0 R
+>>
+endobj
+134 0 obj
+<<
+/P 183 0 R
+/S /Span
+/Type /StructElem
+/ActualText ([12])
+/K [57]
+/Pg 9 0 R
+>>
+endobj
+135 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (as well as its original intended field of use, )
+/K [58]
+/Pg 9 0 R
+>>
+endobj
+136 0 obj
+<<
+/P 184 0 R
+/S /Span
+/Type /StructElem
+/ActualText (natural language processing)
+/K [59]
+/Pg 9 0 R
+>>
+endobj
+137 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (.)
+/K [60]
+/Pg 9 0 R
+>>
+endobj
+138 0 obj
+<<
+/P 185 0 R
+/S /Span
+/Type /StructElem
+/ActualText ([13])
+/K [61]
+/Pg 9 0 R
+>>
+endobj
+139 0 obj
+<<
+/P 186 0 R
+/S /Span
+/Type /StructElem
+/ActualText ([14])
+/K [62]
+/Pg 9 0 R
+>>
+endobj
+140 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Modern Prolog )
+/K [63]
+/Pg 9 0 R
+>>
+endobj
+141 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (environments support the creation of )
+/K [64]
+/Pg 9 0 R
+>>
+endobj
+142 0 obj
+<<
+/P 187 0 R
+/S /Span
+/Type /StructElem
+/ActualText (graphical user interfaces)
+/K [65]
+/Pg 9 0 R
+>>
+endobj
+143 0 obj
+<<
+/P 326 0 R
+/S /Span
+/Type /StructElem
+/ActualText (, as well as administrative and networked applications.)
+/K [66]
+/Pg 9 0 R
+>>
+endobj
+144 0 obj
+<<
+/P 327 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Prolog is well)
+/K [67]
+/Pg 9 0 R
+>>
+endobj
+145 0 obj
+<<
+/P 327 0 R
+/S /Span
+/Type /StructElem
+/ActualText (-)
+/K [68]
+/Pg 9 0 R
+>>
+endobj
+146 0 obj
+<<
+/P 327 0 R
+/S /Span
+/Type /StructElem
+/ActualText (suited for specific tasks that benefit from rule)
+/K [69]
+/Pg 9 0 R
+>>
+endobj
+147 0 obj
+<<
+/P 327 0 R
+/S /Span
+/Type /StructElem
+/ActualText (-)
+/K [70]
+/Pg 9 0 R
+>>
+endobj
+148 0 obj
+<<
+/P 327 0 R
+/S /Span
+/Type /StructElem
+/ActualText (based logical queries such as searching databases, )
+/K [71]
+/Pg 9 0 R
+>>
+endobj
+149 0 obj
+<<
+/P 188 0 R
+/S /Span
+/Type /StructElem
+/ActualText (voice control)
+/K [72]
+/Pg 9 0 R
+>>
+endobj
+150 0 obj
+<<
+/P 327 0 R
+/S /Span
+/Type /StructElem
+/ActualText (systems, and )
+/K [73]
+/Pg 9 0 R
+>>
+endobj
+151 0 obj
+<<
+/P 327 0 R
+/S /Span
+/Type /StructElem
+/ActualText (filling templates)
+/K [74]
+/Pg 9 0 R
+>>
+endobj
+152 0 obj
+<<
+/P 189 0 R
+/S /Span
+/Type /StructElem
+/ActualText (https://en.wikipedia.org/wiki/Prolog)
+/K [75]
+/Pg 9 0 R
+>>
+endobj
+153 0 obj
+<<
+/P 189 0 R
+/S /Span
+/Type /StructElem
+/Pg 9 0 R
+/K 76
+>>
+endobj
+154 0 obj
+<<
+/P 328 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Bratko, Ivan \(2012\). )
+/K [77]
+/Pg 9 0 R
+>>
+endobj
+155 0 obj
+<<
+/P 328 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Prolog programming for artificial intelligence)
+/K [78]
+/Pg 9 0 R
+>>
+endobj
+156 0 obj
+<<
+/P 328 0 R
+/S /Span
+/Type /StructElem
+/ActualText (\(4th ed.\))
+/K [79]
+/Pg 9 0 R
+>>
+endobj
+157 0 obj
+<<
+/P 323 0 R
+/S /Link
+/Type /StructElem
+/K [329 0 R 80 0 R]
+/Pg 9 0 R
+>>
+endobj
+158 0 obj
+<<
+/P 323 0 R
+/S /Link
+/Type /StructElem
+/K [330 0 R 82 0 R]
+/Pg 9 0 R
+>>
+endobj
+159 0 obj
+<<
+/P 323 0 R
+/S /Link
+/Type /StructElem
+/K [331 0 R 84 0 R]
+/Pg 9 0 R
+>>
+endobj
+160 0 obj
+<<
+/P 323 0 R
+/S /Link
+/Type /StructElem
+/K [332 0 R 86 0 R]
+/Pg 9 0 R
+>>
+endobj
+161 0 obj
+<<
+/P 323 0 R
+/S /Link
+/Type /StructElem
+/K [333 0 R 87 0 R]
+/Pg 9 0 R
+>>
+endobj
+162 0 obj
+<<
+/P 323 0 R
+/S /Link
+/Type /StructElem
+/K [334 0 R 88 0 R]
+/Pg 9 0 R
+>>
+endobj
+163 0 obj
+<<
+/P 324 0 R
+/S /Link
+/Type /StructElem
+/K [335 0 R 90 0 R 91 0 R 92 0 R]
+/Pg 9 0 R
+>>
+endobj
+164 0 obj
+<<
+/P 324 0 R
+/S /Link
+/Type /StructElem
+/K [336 0 R 94 0 R]
+/Pg 9 0 R
+>>
+endobj
+165 0 obj
+<<
+/P 324 0 R
+/S /Link
+/Type /StructElem
+/K [337 0 R 96 0 R]
+/Pg 9 0 R
+>>
+endobj
+166 0 obj
+<<
+/P 324 0 R
+/S /Link
+/Type /StructElem
+/K [338 0 R 98 0 R]
+/Pg 9 0 R
+>>
+endobj
+167 0 obj
+<<
+/P 324 0 R
+/S /Link
+/Type /StructElem
+/K [339 0 R 100 0 R]
+/Pg 9 0 R
+>>
+endobj
+168 0 obj
+<<
+/P 324 0 R
+/S /Link
+/Type /StructElem
+/K [340 0 R 105 0 R]
+/Pg 9 0 R
+>>
+endobj
+169 0 obj
+<<
+/P 325 0 R
+/S /Link
+/Type /StructElem
+/K [341 0 R 107 0 R]
+/Pg 9 0 R
+>>
+endobj
+170 0 obj
+<<
+/P 325 0 R
+/S /Link
+/Type /StructElem
+/K [342 0 R 109 0 R 110 0 R]
+/Pg 9 0 R
+>>
+endobj
+171 0 obj
+<<
+/P 325 0 R
+/S /Link
+/Type /StructElem
+/K [343 0 R 112 0 R]
+/Pg 9 0 R
+>>
+endobj
+172 0 obj
+<<
+/P 325 0 R
+/S /Link
+/Type /StructElem
+/K [344 0 R 113 0 R]
+/Pg 9 0 R
+>>
+endobj
+173 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [345 0 R 115 0 R]
+/Pg 9 0 R
+>>
+endobj
+174 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [346 0 R 118 0 R]
+/Pg 9 0 R
+>>
+endobj
+175 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [347 0 R 120 0 R]
+/Pg 9 0 R
+>>
+endobj
+176 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [348 0 R 121 0 R]
+/Pg 9 0 R
+>>
+endobj
+177 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [349 0 R 123 0 R]
+/Pg 9 0 R
+>>
+endobj
+178 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [350 0 R 124 0 R]
+/Pg 9 0 R
+>>
+endobj
+179 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [351 0 R 126 0 R]
+/Pg 9 0 R
+>>
+endobj
+180 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [352 0 R 127 0 R 128 0 R]
+/Pg 9 0 R
+>>
+endobj
+181 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [353 0 R 130 0 R]
+/Pg 9 0 R
+>>
+endobj
+182 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [354 0 R 132 0 R]
+/Pg 9 0 R
+>>
+endobj
+183 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [355 0 R 134 0 R]
+/Pg 9 0 R
+>>
+endobj
+184 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [356 0 R 136 0 R]
+/Pg 9 0 R
+>>
+endobj
+185 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [357 0 R 138 0 R]
+/Pg 9 0 R
+>>
+endobj
+186 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [358 0 R 139 0 R]
+/Pg 9 0 R
+>>
+endobj
+187 0 obj
+<<
+/P 326 0 R
+/S /Link
+/Type /StructElem
+/K [359 0 R 142 0 R]
+/Pg 9 0 R
+>>
+endobj
+188 0 obj
+<<
+/P 327 0 R
+/S /Link
+/Type /StructElem
+/K [360 0 R 149 0 R]
+/Pg 9 0 R
+>>
+endobj
+189 0 obj
+<<
+/P 361 0 R
+/S /Link
+/Type /StructElem
+/K [362 0 R 152 0 R 153 0 R]
+/Pg 9 0 R
+>>
+endobj
+190 0 obj
+<<
+/P 363 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Prolog Assignments)
+/K [0]
+/Pg 10 0 R
+>>
+endobj
+191 0 obj
+<<
+/P 309 0 R
+/S /Span
+/Type /StructElem
+/Pg 10 0 R
+/K 1
+>>
+endobj
+192 0 obj
+<<
+/P 364 0 R
+/S /Span
+/Type /StructElem
+/ActualText (The overall objective of this assignment is for you to gain some hands)
+/K [2]
+/Pg 10 0 R
+>>
+endobj
+193 0 obj
+<<
+/P 364 0 R
+/S /Span
+/Type /StructElem
+/ActualText (-)
+/K [3]
+/Pg 10 0 R
+>>
+endobj
+194 0 obj
+<<
+/P 364 0 R
+/S /Span
+/Type /StructElem
+/ActualText (on experience with problem solving using Prolog, )
+/K [4]
+/Pg 10 0 R
+>>
+endobj
+195 0 obj
+<<
+/P 364 0 R
+/S /Span
+/Type /StructElem
+/ActualText (using simple facts and rules, recursion, and database handling capabilities of the language.)
+/K [5]
+/Pg 10 0 R
+>>
+endobj
+196 0 obj
+<<
+/P 365 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Prolog programming with swi)
+/K [6]
+/Pg 10 0 R
+>>
+endobj
+197 0 obj
+<<
+/P 365 0 R
+/S /Span
+/Type /StructElem
+/ActualText (-)
+/K [7]
+/Pg 10 0 R
+>>
+endobj
+198 0 obj
+<<
+/P 365 0 R
+/S /Span
+/Type /StructElem
+/ActualText (prolog \()
+/K [8]
+/Pg 10 0 R
+>>
+endobj
+199 0 obj
+<<
+/P 237 0 R
+/S /Span
+/Type /StructElem
+/Pg 10 0 R
+/K 9
+>>
+endobj
+200 0 obj
+<<
+/P 237 0 R
+/S /Span
+/Type /StructElem
+/ActualText (https://www.swi)
+/K [10]
+/Pg 10 0 R
+>>
+endobj
+201 0 obj
+<<
+/P 237 0 R
+/S /Span
+/Type /StructElem
+/ActualText (-)
+/K [11]
+/Pg 10 0 R
+>>
+endobj
+202 0 obj
+<<
+/P 237 0 R
+/S /Span
+/Type /StructElem
+/ActualText (prolog.org/features.htm)
+/K [12]
+/Pg 10 0 R
+>>
+endobj
+203 0 obj
+<<
+/P 238 0 R
+/S /Span
+/Type /StructElem
+/ActualText (l)
+/K [13]
+/Pg 10 0 R
+>>
+endobj
+204 0 obj
+<<
+/P 365 0 R
+/S /Span
+/Type /StructElem
+/ActualText (\))
+/K [14]
+/Pg 10 0 R
+>>
+endobj
+205 0 obj
+<<
+/P 366 0 R
+/S /Span
+/Type /StructElem
+/ActualText (SWI)
+/K [15]
+/Pg 10 0 R
+>>
+endobj
+206 0 obj
+<<
+/P 366 0 R
+/S /Span
+/Type /StructElem
+/ActualText (-)
+/K [16]
+/Pg 10 0 R
+>>
+endobj
+207 0 obj
+<<
+/P 366 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Prolog)
+/K [17]
+/Pg 10 0 R
+>>
+endobj
+208 0 obj
+<<
+/P 366 0 R
+/S /Span
+/Type /StructElem
+/ActualText (is a )
+/K [18]
+/Pg 10 0 R
+>>
+endobj
+209 0 obj
+<<
+/P 239 0 R
+/S /Span
+/Type /StructElem
+/ActualText (free)
+/K [19]
+/Pg 10 0 R
+>>
+endobj
+210 0 obj
+<<
+/P 366 0 R
+/S /Span
+/Type /StructElem
+/ActualText (implementation of the )
+/K [20]
+/Pg 10 0 R
+>>
+endobj
+211 0 obj
+<<
+/P 240 0 R
+/S /Span
+/Type /StructElem
+/ActualText (programming language)
+/K [21]
+/Pg 10 0 R
+>>
+endobj
+212 0 obj
+<<
+/P 241 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Prolog)
+/K [22]
+/Pg 10 0 R
+>>
+endobj
+213 0 obj
+<<
+/P 366 0 R
+/S /Span
+/Type /StructElem
+/ActualText (, commonly used for teaching and )
+/K [23]
+/Pg 10 0 R
+>>
+endobj
+214 0 obj
+<<
+/P 242 0 R
+/S /Span
+/Type /StructElem
+/ActualText (semantic web)
+/K [24]
+/Pg 10 0 R
+>>
+endobj
+215 0 obj
+<<
+/P 366 0 R
+/S /Span
+/Type /StructElem
+/ActualText (applications.)
+/K [25]
+/Pg 10 0 R
+>>
+endobj
+216 0 obj
+<<
+/P 367 0 R
+/S /Span
+/Type /StructElem
+/ActualText (You are expected to do your own work on this assignment; there are no group projects in this course. You may \(and are encoura)
+/K [26]
+/Pg 10 0 R
+>>
+endobj
+217 0 obj
+<<
+/P 367 0 R
+/S /Span
+/Type /StructElem
+/ActualText (ged)
+/K [27]
+/Pg 10 0 R
+>>
+endobj
+218 0 obj
+<<
+/P 367 0 R
+/S /Span
+/Type /StructElem
+/ActualText (to\) )
+/K [28]
+/Pg 10 0 R
+>>
+endobj
+219 0 obj
+<<
+/P 367 0 R
+/S /Span
+/Type /StructElem
+/ActualText (engage in general discussions with your classmates regarding the assignment, but specific details of a solution, including th)
+/K [29]
+/Pg 10 0 R
+>>
+endobj
+220 0 obj
+<<
+/P 367 0 R
+/S /Span
+/Type /StructElem
+/ActualText (e s)
+/K [30]
+/Pg 10 0 R
+>>
+endobj
+221 0 obj
+<<
+/P 367 0 R
+/S /Span
+/Type /StructElem
+/ActualText (olution itself, )
+/K [31]
+/Pg 10 0 R
+>>
+endobj
+222 0 obj
+<<
+/P 367 0 R
+/S /Span
+/Type /StructElem
+/ActualText (must always be your own work. Incidents which violate this will be taken seriously.)
+/K [32]
+/Pg 10 0 R
+>>
+endobj
+223 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Code for all programming assignments should be )
+/K [33]
+/Pg 10 0 R
+>>
+endobj
+224 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (well documented)
+/K [34]
+/Pg 10 0 R
+>>
+endobj
+225 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (. A working program with no comments will )
+/K [35]
+/Pg 10 0 R
+>>
+endobj
+226 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (receive only partial )
+/K [36]
+/Pg 10 0 R
+>>
+endobj
+227 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (credit)
+/K [37]
+/Pg 10 0 R
+>>
+endobj
+228 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (. Documentation entails writing a description of each predicate as well as comments throughout the code to explain the progra)
+/K [38]
+/Pg 10 0 R
+>>
+endobj
+229 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (m )
+/K [39]
+/Pg 10 0 R
+>>
+endobj
+230 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (logic. Comments in Prolog begin with a percent sign \(%\) and are terminated by a newline/carriage return. It is understood tha)
+/K [40]
+/Pg 10 0 R
+>>
+endobj
+231 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (t s)
+/K [41]
+/Pg 10 0 R
+>>
+endobj
+232 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (ome of )
+/K [42]
+/Pg 10 0 R
+>>
+endobj
+233 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (the exercises in this programming assignment require extremely little code and will not require extensive comments. Neverthel)
+/K [43]
+/Pg 10 0 R
+>>
+endobj
+234 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (ess)
+/K [44]
+/Pg 10 0 R
+>>
+endobj
+235 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (, )
+/K [45]
+/Pg 10 0 R
+>>
+endobj
+236 0 obj
+<<
+/P 368 0 R
+/S /Span
+/Type /StructElem
+/ActualText (comments describing recursions and helper predicates are required.)
+/K [46]
+/Pg 10 0 R
+>>
+endobj
+237 0 obj
+<<
+/P 365 0 R
+/S /Link
+/Type /StructElem
+/K [369 0 R 199 0 R 200 0 R 201 0 R 202 0 R]
+/Pg 10 0 R
+>>
+endobj
+238 0 obj
+<<
+/P 365 0 R
+/S /Link
+/Type /StructElem
+/K [370 0 R 203 0 R]
+/Pg 10 0 R
+>>
+endobj
+239 0 obj
+<<
+/P 366 0 R
+/S /Link
+/Type /StructElem
+/K [371 0 R 209 0 R]
+/Pg 10 0 R
+>>
+endobj
+240 0 obj
+<<
+/P 366 0 R
+/S /Link
+/Type /StructElem
+/K [372 0 R 211 0 R]
+/Pg 10 0 R
+>>
+endobj
+241 0 obj
+<<
+/P 366 0 R
+/S /Link
+/Type /StructElem
+/K [373 0 R 212 0 R]
+/Pg 10 0 R
+>>
+endobj
+242 0 obj
+<<
+/P 366 0 R
+/S /Link
+/Type /StructElem
+/K [374 0 R 214 0 R]
+/Pg 10 0 R
+>>
+endobj
+243 0 obj
+<<
+/P 375 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Submission Guidelines/Instructions)
+/K [0]
+/Pg 11 0 R
+>>
+endobj
+244 0 obj
+<<
+/P 376 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Creating the zip/tar file for submission)
+/K [1]
+/Pg 11 0 R
+>>
+endobj
+245 0 obj
+<<
+/P 377 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Your answers to this assignment will be stored in separate files under a directory called <username>_<rollno>/. For )
+/K [2]
+/Pg 11 0 R
+>>
+endobj
+246 0 obj
+<<
+/P 377 0 R
+/S /Span
+/Type /StructElem
+/ActualText (instance, I would create a directory caller )
+/K [3]
+/Pg 11 0 R
+>>
+endobj
+247 0 obj
+<<
+/P 377 0 R
+/S /Span
+/Type /StructElem
+/ActualText (tanay_)
+/K [4]
+/Pg 11 0 R
+>>
+endobj
+248 0 obj
+<<
+/P 377 0 R
+/S /Span
+/Type /StructElem
+/ActualText (ai20btech11026)
+/K [5]
+/Pg 11 0 R
+>>
+endobj
+249 0 obj
+<<
+/P 377 0 R
+/S /Span
+/Type /StructElem
+/ActualText (. )
+/K [6]
+/Pg 11 0 R
+>>
+endobj
+250 0 obj
+<<
+/P 377 0 R
+/S /Span
+/Type /StructElem
+/ActualText (The directory hierarchy should appear as follows:)
+/K [7]
+/Pg 11 0 R
+>>
+endobj
+251 0 obj
+<<
+/P 378 0 R
+/S /Span
+/Type /StructElem
+/ActualText (<username>_<rollno>/)
+/K [8]
+/Pg 11 0 R
+>>
+endobj
+252 0 obj
+<<
+/P 379 0 R
+/S /Span
+/Type /StructElem
+/ActualText (problem1.pl)
+/K [9]
+/Pg 11 0 R
+>>
+endobj
+253 0 obj
+<<
+/P 380 0 R
+/S /Span
+/Type /StructElem
+/ActualText (problem2.pl)
+/K [10]
+/Pg 11 0 R
+>>
+endobj
+254 0 obj
+<<
+/P 381 0 R
+/S /Span
+/Type /StructElem
+/ActualText (problem3.pl)
+/K [11]
+/Pg 11 0 R
+>>
+endobj
+255 0 obj
+<<
+/P 382 0 R
+/S /Span
+/Type /StructElem
+/ActualText (problem4.pl)
+/K [12]
+/Pg 11 0 R
+>>
+endobj
+256 0 obj
+<<
+/P 383 0 R
+/S /Span
+/Type /StructElem
+/ActualText (For example, as indicated above, in the <username>_<rollno> directory, you should have a file named problem1.pl, which )
+/K [13]
+/Pg 11 0 R
+>>
+endobj
+257 0 obj
+<<
+/P 383 0 R
+/S /Span
+/Type /StructElem
+/ActualText (will contain the documented Prolog source code to implement the functions specified in Problem #1 of this assignment, a )
+/K [14]
+/Pg 11 0 R
+>>
+endobj
+258 0 obj
+<<
+/P 383 0 R
+/S /Span
+/Type /StructElem
+/ActualText (file named problem2.pl, which will contain the documented Prolog source code to implement the functions specified in )
+/K [15]
+/Pg 11 0 R
+>>
+endobj
+259 0 obj
+<<
+/P 383 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Problem #2, and so on. Kindly submit the compressed folder in zip/tar format. )
+/K [16]
+/Pg 11 0 R
+>>
+endobj
+260 0 obj
+<<
+/P 384 0 R
+/S /Span
+/Type /StructElem
+/ActualText (All implementations should be based on swi)
+/K [17]
+/Pg 11 0 R
+>>
+endobj
+261 0 obj
+<<
+/P 384 0 R
+/S /Span
+/Type /StructElem
+/ActualText (-)
+/K [18]
+/Pg 11 0 R
+>>
+endobj
+262 0 obj
+<<
+/P 384 0 R
+/S /Span
+/Type /StructElem
+/ActualText (prolog)
+/K [19]
+/Pg 11 0 R
+>>
+endobj
+263 0 obj
+<<
+/P 385 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Assignment 1 : Asian countries)
+/K [0]
+/Pg 12 0 R
+>>
+endobj
+264 0 obj
+<<
+/P 312 0 R
+/S /Span
+/Type /StructElem
+/Pg 12 0 R
+/K 1
+>>
+endobj
+265 0 obj
+<<
+/P 386 0 R
+/S /Span
+/Type /StructElem
+/ActualText (A \) Write a database of all Asian countries specifying the area, the population and the neighbors of the )
+/K [2]
+/Pg 12 0 R
+>>
+endobj
+266 0 obj
+<<
+/P 386 0 R
+/S /Span
+/Type /StructElem
+/ActualText (individual countries:)
+/K [3]
+/Pg 12 0 R
+>>
+endobj
+267 0 obj
+<<
+/P 387 0 R
+/S /Span
+/Type /StructElem
+/ActualText (B\) Enhance the database with deduction rules, e.g.)
+/K [4]
+/Pg 12 0 R
+>>
+endobj
+268 0 obj
+<<
+/P 388 0 R
+/S /Span
+/Type /StructElem
+/ActualText (density\( S, D\) )
+/K [5]
+/Pg 12 0 R
+>>
+endobj
+269 0 obj
+<<
+/P 388 0 R
+/S /Span
+/Type /StructElem
+/ActualText (/* Density of country S is D*/)
+/K [6]
+/Pg 12 0 R
+>>
+endobj
+270 0 obj
+<<
+/P 389 0 R
+/S /Span
+/Type /StructElem
+/ActualText (such that the following type of queries are possible. It should generalize and provide answers for any arbitrary )
+/K [7]
+/Pg 12 0 R
+>>
+endobj
+271 0 obj
+<<
+/P 389 0 R
+/S /Span
+/Type /StructElem
+/ActualText (asian country. )
+/K [8]
+/Pg 12 0 R
+>>
+endobj
+272 0 obj
+<<
+/P 390 0 R
+/S /Span
+/Type /StructElem
+/ActualText (1.)
+/K [9]
+/Pg 12 0 R
+>>
+endobj
+273 0 obj
+<<
+/P 390 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Which country is a neighbor of India?)
+/K [10]
+/Pg 12 0 R
+>>
+endobj
+274 0 obj
+<<
+/P 391 0 R
+/S /Span
+/Type /StructElem
+/ActualText (2.)
+/K [11]
+/Pg 12 0 R
+>>
+endobj
+275 0 obj
+<<
+/P 391 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Is there a neighbor of India that has a bigger population and a larger area than India?)
+/K [12]
+/Pg 12 0 R
+>>
+endobj
+276 0 obj
+<<
+/P 392 0 R
+/S /Span
+/Type /StructElem
+/ActualText (3.)
+/K [13]
+/Pg 12 0 R
+>>
+endobj
+277 0 obj
+<<
+/P 392 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Is there a neighbor of China that has a higher density than China?)
+/K [14]
+/Pg 12 0 R
+>>
+endobj
+278 0 obj
+<<
+/P 393 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Assignment 2 : )
+/K [0]
+/Pg 13 0 R
+>>
+endobj
+279 0 obj
+<<
+/P 393 0 R
+/S /Span
+/Type /StructElem
+/ActualText (IPL)
+/K [1]
+/Pg 13 0 R
+>>
+endobj
+280 0 obj
+<<
+/P 393 0 R
+/S /Span
+/Type /StructElem
+/ActualText (2021)
+/K [2]
+/Pg 13 0 R
+>>
+endobj
+281 0 obj
+<<
+/P 393 0 R
+/S /Span
+/Type /StructElem
+/ActualText (tournament)
+/K [3]
+/Pg 13 0 R
+>>
+endobj
+282 0 obj
+<<
+/P 314 0 R
+/S /Span
+/Type /StructElem
+/Pg 13 0 R
+/K 4
+>>
+endobj
+283 0 obj
+<<
+/P 394 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Represent the outcome of all the )
+/K [5]
+/Pg 13 0 R
+>>
+endobj
+284 0 obj
+<<
+/P 394 0 R
+/S /Span
+/Type /StructElem
+/ActualText (matches played in the month of april in IPL 2021 )
+/K [6]
+/Pg 13 0 R
+>>
+endobj
+285 0 obj
+<<
+/P 394 0 R
+/S /Span
+/Type /StructElem
+/ActualText (as )
+/K [7]
+/Pg 13 0 R
+>>
+endobj
+286 0 obj
+<<
+/P 394 0 R
+/S /Span
+/Type /StructElem
+/ActualText (a database of the following form)
+/K [8]
+/Pg 13 0 R
+>>
+endobj
+287 0 obj
+<<
+/P 395 0 R
+/S /Span
+/Type /StructElem
+/ActualText (won\( D , E\). )
+/K [9]
+/Pg 13 0 R
+>>
+endobj
+288 0 obj
+<<
+/P 395 0 R
+/S /Span
+/Type /StructElem
+/ActualText (/*Team  )
+/K [10]
+/Pg 13 0 R
+>>
+endobj
+289 0 obj
+<<
+/P 395 0 R
+/S /Span
+/Type /StructElem
+/ActualText (D won against )
+/K [11]
+/Pg 13 0 R
+>>
+endobj
+290 0 obj
+<<
+/P 395 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Team )
+/K [12]
+/Pg 13 0 R
+>>
+endobj
+291 0 obj
+<<
+/P 395 0 R
+/S /Span
+/Type /StructElem
+/ActualText (E */)
+/K [13]
+/Pg 13 0 R
+>>
+endobj
+292 0 obj
+<<
+/P 396 0 R
+/S /Span
+/Type /StructElem
+/ActualText (Write Predicates to classify )
+/K [14]
+/Pg 13 0 R
+>>
+endobj
+293 0 obj
+<<
+/P 396 0 R
+/S /Span
+/Type /StructElem
+/ActualText (teams )
+/K [15]
+/Pg 13 0 R
+>>
+endobj
+294 0 obj
+<<
+/P 396 0 R
+/S /Span
+/Type /StructElem
+/ActualText (into  3 categories, so that you can answer questions like What is the )
+/K [16]
+/Pg 13 0 R
+>>
+endobj
+295 0 obj
+<<
+/P 396 0 R
+/S /Span
+/Type /StructElem
+/ActualText (category of D ?)
+/K [17]
+/Pg 13 0 R
+>>
+endobj
+296 0 obj
+<<
+/P 397 0 R
+/S /Span
+/Type /StructElem
+/ActualText (category\( S, 1\))
+/K [18]
+/Pg 13 0 R
+>>
+endobj
+297 0 obj
+<<
+/P 398 0 R
+/S /Span
+/Type /StructElem
+/ActualText (/* S )
+/K [19]
+/Pg 13 0 R
+>>
+endobj
+298 0 obj
+<<
+/P 398 0 R
+/S /Span
+/Type /StructElem
+/ActualText (won exactly one match)
+/K [20]
+/Pg 13 0 R
+>>
+endobj
+299 0 obj
+<<
+/P 399 0 R
+/S /Span
+/Type /StructElem
+/ActualText (category\( S, 2\))
+/K [21]
+/Pg 13 0 R
+>>
+endobj
+300 0 obj
+<<
+/P 400 0 R
+/S /Span
+/Type /StructElem
+/ActualText (/* S won some matches and lost some matches */)
+/K [22]
+/Pg 13 0 R
+>>
+endobj
+301 0 obj
+<<
+/P 401 0 R
+/S /Span
+/Type /StructElem
+/ActualText (category\( S, 3\))
+/K [23]
+/Pg 13 0 R
+>>
+endobj
+302 0 obj
+<<
+/P 402 0 R
+/S /Span
+/Type /StructElem
+/ActualText (/* S )
+/K [24]
+/Pg 13 0 R
+>>
+endobj
+303 0 obj
+<<
+/P 402 0 R
+/S /Span
+/Type /StructElem
+/ActualText (won all the matches)
+/K [25]
+/Pg 13 0 R
+>>
+endobj
+304 0 obj
+<<
+/P 16 0 R
+/S /Textbox
+/Type /StructElem
+/K [319 0 R 320 0 R]
+/Pg 8 0 R
+>>
+endobj
+305 0 obj
+<<
+/P 16 0 R
+/S /Textbox
+/Type /StructElem
+/K [321 0 R]
+/Pg 8 0 R
+>>
+endobj
+306 0 obj
+<<
+/P 17 0 R
+/S /Textbox
+/Type /StructElem
+/K [322 0 R]
+/Pg 9 0 R
+>>
+endobj
+307 0 obj
+<<
+/P 17 0 R
+/S /Textbox
+/Type /StructElem
+/K [323 0 R 324 0 R 325 0 R 326 0 R 327 0 R 361 0 R 328 0 R]
+/Pg 9 0 R
+>>
+endobj
+308 0 obj
+<<
+/P 18 0 R
+/S /Textbox
+/Type /StructElem
+/K [363 0 R]
+/Pg 10 0 R
+>>
+endobj
+309 0 obj
+<<
+/P 18 0 R
+/S /Textbox
+/Type /StructElem
+/K [191 0 R 364 0 R 365 0 R 366 0 R 367 0 R 368 0 R]
+/Pg 10 0 R
+>>
+endobj
+310 0 obj
+<<
+/P 19 0 R
+/S /Textbox
+/Type /StructElem
+/K [375 0 R 376 0 R 377 0 R 378 0 R 379 0 R 380 0 R 381 0 R 382 0 R 383 0 R 384 0 R]
+/Pg 11 0 R
+>>
+endobj
+311 0 obj
+<<
+/P 20 0 R
+/S /Textbox
+/Type /StructElem
+/K [385 0 R]
+/Pg 12 0 R
+>>
+endobj
+312 0 obj
+<<
+/P 20 0 R
+/S /Textbox
+/Type /StructElem
+/K [264 0 R 386 0 R 387 0 R 388 0 R 389 0 R 403 0 R]
+/Pg 12 0 R
+>>
+endobj
+313 0 obj
+<<
+/P 21 0 R
+/S /Textbox
+/Type /StructElem
+/K [393 0 R]
+/Pg 13 0 R
+>>
+endobj
+314 0 obj
+<<
+/P 21 0 R
+/S /Textbox
+/Type /StructElem
+/K [282 0 R 394 0 R 395 0 R 396 0 R 397 0 R 398 0 R 399 0 R 400 0 R 401 0 R 402 0 R]
+/Pg 13 0 R
+>>
+endobj
+315 0 obj
+<<
+/Type /FontDescriptor
+/FontName /ArialMT
+/Flags 32
+/ItalicAngle 0
+/Ascent 905
+/Descent -210
+/CapHeight 728
+/AvgWidth 441
+/MaxWidth 2665
+/FontWeight 400
+/XHeight 250
+/Leading 33
+/StemV 44
+/FontBBox [-665 -210 2000 728]
+>>
+endobj
+316 0 obj
+<<
+/Type /FontDescriptor
+/FontName /Arial-BoldMT
+/Flags 32
+/ItalicAngle 0
+/Ascent 905
+/Descent -210
+/CapHeight 728
+/AvgWidth 479
+/MaxWidth 2628
+/FontWeight 700
+/XHeight 250
+/Leading 33
+/StemV 47
+/FontBBox [-628 -210 2000 728]
+>>
+endobj
+317 0 obj
+<<
+/Type /FontDescriptor
+/FontName /Arial-ItalicMT
+/Flags 32
+/ItalicAngle -12
+/Ascent 905
+/Descent -208
+/CapHeight 728
+/AvgWidth 441
+/MaxWidth 1876
+/FontWeight 400
+/XHeight 250
+/Leading 33
+/StemV 44
+/FontBBox [-517 -208 1359 728]
+>>
+endobj
+318 0 obj
+<<
+/Type /FontDescriptor
+/FontName /BCDEEE+Roboto
+/Flags 32
+/ItalicAngle 0
+/Ascent 928
+/Descent -250
+/CapHeight 750
+/AvgWidth 567
+/MaxWidth 1886
+/FontWeight 400
+/XHeight 250
+/StemV 56
+/FontBBox [-737 -250 1149 750]
+/FontFile2 404 0 R
+>>
+endobj
+319 0 obj
+<<
+/P 304 0 R
+/S /P
+/Type /StructElem
+/K [73 0 R]
+/Pg 8 0 R
+>>
+endobj
+320 0 obj
+<<
+/P 304 0 R
+/S /P
+/Type /StructElem
+/K [74 0 R 75 0 R]
+/Pg 8 0 R
+>>
+endobj
+321 0 obj
+<<
+/P 305 0 R
+/S /P
+/Type /StructElem
+/K [76 0 R]
+/Pg 8 0 R
+>>
+endobj
+322 0 obj
+<<
+/P 306 0 R
+/S /P
+/Type /StructElem
+/K [77 0 R]
+/Pg 9 0 R
+>>
+endobj
+323 0 obj
+<<
+/P 307 0 R
+/S /P
+/Type /StructElem
+/K [78 0 R 79 0 R 157 0 R 81 0 R 158 0 R 83 0 R 159 0 R 85 0 R 160 0 R 161 0 R
+162 0 R]
+/Pg 9 0 R
+>>
+endobj
+324 0 obj
+<<
+/P 307 0 R
+/S /P
+/Type /StructElem
+/K [89 0 R 163 0 R 93 0 R 164 0 R 95 0 R 165 0 R 97 0 R 166 0 R 99 0 R 167 0 R
+101 0 R 102 0 R 103 0 R 104 0 R 168 0 R]
+/Pg 9 0 R
+>>
+endobj
+325 0 obj
+<<
+/P 307 0 R
+/S /P
+/Type /StructElem
+/K [106 0 R 169 0 R 108 0 R 170 0 R 111 0 R 171 0 R 172 0 R]
+/Pg 9 0 R
+>>
+endobj
+326 0 obj
+<<
+/P 307 0 R
+/S /P
+/Type /StructElem
+/K [114 0 R 173 0 R 116 0 R 117 0 R 174 0 R 119 0 R 175 0 R 176 0 R 122 0 R 177 0 R
+178 0 R 125 0 R 179 0 R 180 0 R 129 0 R 181 0 R 131 0 R 182 0 R 133 0 R 183 0 R
+135 0 R 184 0 R 137 0 R 185 0 R 186 0 R 140 0 R 141 0 R 187 0 R 143 0 R]
+/Pg 9 0 R
+>>
+endobj
+327 0 obj
+<<
+/P 307 0 R
+/S /P
+/Type /StructElem
+/K [144 0 R 145 0 R 146 0 R 147 0 R 148 0 R 188 0 R 150 0 R 151 0 R]
+/Pg 9 0 R
+>>
+endobj
+328 0 obj
+<<
+/P 307 0 R
+/S /P
+/Type /StructElem
+/K [154 0 R 155 0 R 156 0 R]
+/Pg 9 0 R
+>>
+endobj
+329 0 obj
+<<
+/Type /OBJR
+/Obj 28 0 R
+/Pg 9 0 R
+>>
+endobj
+330 0 obj
+<<
+/Type /OBJR
+/Obj 29 0 R
+/Pg 9 0 R
+>>
+endobj
+331 0 obj
+<<
+/Type /OBJR
+/Obj 30 0 R
+/Pg 9 0 R
+>>
+endobj
+332 0 obj
+<<
+/Type /OBJR
+/Obj 31 0 R
+/Pg 9 0 R
+>>
+endobj
+333 0 obj
+<<
+/Type /OBJR
+/Obj 32 0 R
+/Pg 9 0 R
+>>
+endobj
+334 0 obj
+<<
+/Type /OBJR
+/Obj 33 0 R
+/Pg 9 0 R
+>>
+endobj
+335 0 obj
+<<
+/Type /OBJR
+/Obj 34 0 R
+/Pg 9 0 R
+>>
+endobj
+336 0 obj
+<<
+/Type /OBJR
+/Obj 35 0 R
+/Pg 9 0 R
+>>
+endobj
+337 0 obj
+<<
+/Type /OBJR
+/Obj 36 0 R
+/Pg 9 0 R
+>>
+endobj
+338 0 obj
+<<
+/Type /OBJR
+/Obj 37 0 R
+/Pg 9 0 R
+>>
+endobj
+339 0 obj
+<<
+/Type /OBJR
+/Obj 38 0 R
+/Pg 9 0 R
+>>
+endobj
+340 0 obj
+<<
+/Type /OBJR
+/Obj 39 0 R
+/Pg 9 0 R
+>>
+endobj
+341 0 obj
+<<
+/Type /OBJR
+/Obj 40 0 R
+/Pg 9 0 R
+>>
+endobj
+342 0 obj
+<<
+/Type /OBJR
+/Obj 41 0 R
+/Pg 9 0 R
+>>
+endobj
+343 0 obj
+<<
+/Type /OBJR
+/Obj 42 0 R
+/Pg 9 0 R
+>>
+endobj
+344 0 obj
+<<
+/Type /OBJR
+/Obj 43 0 R
+/Pg 9 0 R
+>>
+endobj
+345 0 obj
+<<
+/Type /OBJR
+/Obj 44 0 R
+/Pg 9 0 R
+>>
+endobj
+346 0 obj
+<<
+/Type /OBJR
+/Obj 45 0 R
+/Pg 9 0 R
+>>
+endobj
+347 0 obj
+<<
+/Type /OBJR
+/Obj 46 0 R
+/Pg 9 0 R
+>>
+endobj
+348 0 obj
+<<
+/Type /OBJR
+/Obj 47 0 R
+/Pg 9 0 R
+>>
+endobj
+349 0 obj
+<<
+/Type /OBJR
+/Obj 48 0 R
+/Pg 9 0 R
+>>
+endobj
+350 0 obj
+<<
+/Type /OBJR
+/Obj 49 0 R
+/Pg 9 0 R
+>>
+endobj
+351 0 obj
+<<
+/Type /OBJR
+/Obj 50 0 R
+/Pg 9 0 R
+>>
+endobj
+352 0 obj
+<<
+/Type /OBJR
+/Obj 51 0 R
+/Pg 9 0 R
+>>
+endobj
+353 0 obj
+<<
+/Type /OBJR
+/Obj 52 0 R
+/Pg 9 0 R
+>>
+endobj
+354 0 obj
+<<
+/Type /OBJR
+/Obj 53 0 R
+/Pg 9 0 R
+>>
+endobj
+355 0 obj
+<<
+/Type /OBJR
+/Obj 54 0 R
+/Pg 9 0 R
+>>
+endobj
+356 0 obj
+<<
+/Type /OBJR
+/Obj 55 0 R
+/Pg 9 0 R
+>>
+endobj
+357 0 obj
+<<
+/Type /OBJR
+/Obj 56 0 R
+/Pg 9 0 R
+>>
+endobj
+358 0 obj
+<<
+/Type /OBJR
+/Obj 57 0 R
+/Pg 9 0 R
+>>
+endobj
+359 0 obj
+<<
+/Type /OBJR
+/Obj 58 0 R
+/Pg 9 0 R
+>>
+endobj
+360 0 obj
+<<
+/Type /OBJR
+/Obj 59 0 R
+/Pg 9 0 R
+>>
+endobj
+361 0 obj
+<<
+/P 307 0 R
+/S /P
+/Type /StructElem
+/K [189 0 R]
+/Pg 9 0 R
+>>
+endobj
+362 0 obj
+<<
+/Type /OBJR
+/Obj 60 0 R
+/Pg 9 0 R
+>>
+endobj
+363 0 obj
+<<
+/P 308 0 R
+/S /P
+/Type /StructElem
+/K [190 0 R]
+/Pg 10 0 R
+>>
+endobj
+364 0 obj
+<<
+/P 309 0 R
+/S /P
+/Type /StructElem
+/K [192 0 R 193 0 R 194 0 R 195 0 R]
+/Pg 10 0 R
+>>
+endobj
+365 0 obj
+<<
+/P 309 0 R
+/S /P
+/Type /StructElem
+/K [196 0 R 197 0 R 198 0 R 237 0 R 238 0 R 204 0 R]
+/Pg 10 0 R
+>>
+endobj
+366 0 obj
+<<
+/P 309 0 R
+/S /P
+/Type /StructElem
+/K [205 0 R 206 0 R 207 0 R 208 0 R 239 0 R 210 0 R 240 0 R 241 0 R 213 0 R 242 0 R
+215 0 R]
+/Pg 10 0 R
+>>
+endobj
+367 0 obj
+<<
+/P 309 0 R
+/S /P
+/Type /StructElem
+/K [216 0 R 217 0 R 218 0 R 219 0 R 220 0 R 221 0 R 222 0 R]
+/Pg 10 0 R
+>>
+endobj
+368 0 obj
+<<
+/P 309 0 R
+/S /P
+/Type /StructElem
+/K [223 0 R 224 0 R 225 0 R 226 0 R 227 0 R 228 0 R 229 0 R 230 0 R 231 0 R 232 0 R
+233 0 R 234 0 R 235 0 R 236 0 R]
+/Pg 10 0 R
+>>
+endobj
+369 0 obj
+<<
+/Type /OBJR
+/Obj 62 0 R
+/Pg 10 0 R
+>>
+endobj
+370 0 obj
+<<
+/Type /OBJR
+/Obj 63 0 R
+/Pg 10 0 R
+>>
+endobj
+371 0 obj
+<<
+/Type /OBJR
+/Obj 64 0 R
+/Pg 10 0 R
+>>
+endobj
+372 0 obj
+<<
+/Type /OBJR
+/Obj 65 0 R
+/Pg 10 0 R
+>>
+endobj
+373 0 obj
+<<
+/Type /OBJR
+/Obj 66 0 R
+/Pg 10 0 R
+>>
+endobj
+374 0 obj
+<<
+/Type /OBJR
+/Obj 67 0 R
+/Pg 10 0 R
+>>
+endobj
+375 0 obj
+<<
+/P 310 0 R
+/S /P
+/Type /StructElem
+/K [243 0 R]
+/Pg 11 0 R
+>>
+endobj
+376 0 obj
+<<
+/P 310 0 R
+/S /P
+/Type /StructElem
+/K [244 0 R]
+/Pg 11 0 R
+>>
+endobj
+377 0 obj
+<<
+/P 310 0 R
+/S /P
+/Type /StructElem
+/K [245 0 R 246 0 R 247 0 R 248 0 R 249 0 R 250 0 R]
+/Pg 11 0 R
+>>
+endobj
+378 0 obj
+<<
+/P 310 0 R
+/S /P
+/Type /StructElem
+/K [251 0 R]
+/Pg 11 0 R
+>>
+endobj
+379 0 obj
+<<
+/P 310 0 R
+/S /P
+/Type /StructElem
+/K [252 0 R]
+/Pg 11 0 R
+>>
+endobj
+380 0 obj
+<<
+/P 310 0 R
+/S /P
+/Type /StructElem
+/K [253 0 R]
+/Pg 11 0 R
+>>
+endobj
+381 0 obj
+<<
+/P 310 0 R
+/S /P
+/Type /StructElem
+/K [254 0 R]
+/Pg 11 0 R
+>>
+endobj
+382 0 obj
+<<
+/P 310 0 R
+/S /P
+/Type /StructElem
+/K [255 0 R]
+/Pg 11 0 R
+>>
+endobj
+383 0 obj
+<<
+/P 310 0 R
+/S /P
+/Type /StructElem
+/K [256 0 R 257 0 R 258 0 R 259 0 R]
+/Pg 11 0 R
+>>
+endobj
+384 0 obj
+<<
+/P 310 0 R
+/S /P
+/Type /StructElem
+/K [260 0 R 261 0 R 262 0 R]
+/Pg 11 0 R
+>>
+endobj
+385 0 obj
+<<
+/P 311 0 R
+/S /P
+/Type /StructElem
+/K [263 0 R]
+/Pg 12 0 R
+>>
+endobj
+386 0 obj
+<<
+/P 312 0 R
+/S /P
+/Type /StructElem
+/K [265 0 R 266 0 R]
+/Pg 12 0 R
+>>
+endobj
+387 0 obj
+<<
+/P 312 0 R
+/S /P
+/Type /StructElem
+/K [267 0 R]
+/Pg 12 0 R
+>>
+endobj
+388 0 obj
+<<
+/P 312 0 R
+/S /P
+/Type /StructElem
+/K [268 0 R 269 0 R]
+/Pg 12 0 R
+>>
+endobj
+389 0 obj
+<<
+/P 312 0 R
+/S /P
+/Type /StructElem
+/K [270 0 R 271 0 R]
+/Pg 12 0 R
+>>
+endobj
+390 0 obj
+<<
+/P 405 0 R
+/S /LBody
+/Type /StructElem
+/K [272 0 R 273 0 R]
+/Pg 12 0 R
+>>
+endobj
+391 0 obj
+<<
+/P 406 0 R
+/S /LBody
+/Type /StructElem
+/K [274 0 R 275 0 R]
+/Pg 12 0 R
+>>
+endobj
+392 0 obj
+<<
+/P 407 0 R
+/S /LBody
+/Type /StructElem
+/K [276 0 R 277 0 R]
+/Pg 12 0 R
+>>
+endobj
+393 0 obj
+<<
+/P 313 0 R
+/S /P
+/Type /StructElem
+/K [278 0 R 279 0 R 280 0 R 281 0 R]
+/Pg 13 0 R
+>>
+endobj
+394 0 obj
+<<
+/P 314 0 R
+/S /P
+/Type /StructElem
+/K [283 0 R 284 0 R 285 0 R 286 0 R]
+/Pg 13 0 R
+>>
+endobj
+395 0 obj
+<<
+/P 314 0 R
+/S /P
+/Type /StructElem
+/K [287 0 R 288 0 R 289 0 R 290 0 R 291 0 R]
+/Pg 13 0 R
+>>
+endobj
+396 0 obj
+<<
+/P 314 0 R
+/S /P
+/Type /StructElem
+/K [292 0 R 293 0 R 294 0 R 295 0 R]
+/Pg 13 0 R
+>>
+endobj
+397 0 obj
+<<
+/P 314 0 R
+/S /P
+/Type /StructElem
+/K [296 0 R]
+/Pg 13 0 R
+>>
+endobj
+398 0 obj
+<<
+/P 314 0 R
+/S /P
+/Type /StructElem
+/K [297 0 R 298 0 R]
+/Pg 13 0 R
+>>
+endobj
+399 0 obj
+<<
+/P 314 0 R
+/S /P
+/Type /StructElem
+/K [299 0 R]
+/Pg 13 0 R
+>>
+endobj
+400 0 obj
+<<
+/P 314 0 R
+/S /P
+/Type /StructElem
+/K [300 0 R]
+/Pg 13 0 R
+>>
+endobj
+401 0 obj
+<<
+/P 314 0 R
+/S /P
+/Type /StructElem
+/K [301 0 R]
+/Pg 13 0 R
+>>
+endobj
+402 0 obj
+<<
+/P 314 0 R
+/S /P
+/Type /StructElem
+/K [302 0 R 303 0 R]
+/Pg 13 0 R
+>>
+endobj
+403 0 obj
+<<
+/P 312 0 R
+/S /L
+/A 408 0 R
+/Type /StructElem
+/K [405 0 R 406 0 R 407 0 R]
+/Pg 12 0 R
+>>
+endobj
+404 0 obj
+<<
+/Length 8358
+/Filter /FlateDecode
+/Length1 19868
+>>
+stream
+xœí|TTG¶è®sNwói~ò=İi”ù4Z?È»ùÍ_ÿø×VÔhTL¢ÑdLb4±Ñ˜ ¹ctMnf2‰™;™™ûî¼¹“Ì}onæM’{ÍL’»æ%B¿]çÉKæeÍ»k]ÏîÚ§jWÕ®]»öŞUÕÚ  Dx—GÆœÜ9r €˜‘ÚĞÔiív9ë÷>€?‡´’¦ş>mÊ_ô[ ^ÂúÉÖî¶Îç»b * ¼ö´ulhıÙ§6,Âz¿wÛ[¬Ílqøo°í?cŠoG‚Û¸["òòÃò‚öÎ¾ßä­Äò(€oaGW“µ¥wõY€´A 7m§u Ûå‚wÖcĞ®µv¶D¯nÛ‹m˜]İ]½}ÎNh(X@ë»m-İÌïü ÇcŞ:7–(ƒ÷æ?Sï•ú9h\€>¯â³˜¾ó?~fıbÎÄ¯\£]z±è
+HöSuLª‘”ÿÅœÉ|×h‘ÓŒ‡;I)
+/H%$`?¼!ÃQ?ğÚƒu8n?9
+lõ˜Âˆ,yéÍşZé0Ì4¯ßã,m-çç€	À9¡„I€VÕcV'Åq“±Ë¤ó¾÷a¼ásößOÿ6·z1]Ä´ò>úî¿†ß·y”wàÂ÷É«†Nn+ä¢ Û	õ\ÔM×µÃù3ú¿ñ`^†!ñ}íáoô0·!ãê6}_ã/á‰ï‹×Ãçáóğyøügzh¥ñSéL:ç¶{ÊŞPŒé¦¦¯ãÅ…Â"ñöûë”˜Y&„aî÷÷Òş«<¨ëªÑÙ¾YÜ à6ƒ•+Å÷ğûã•ÎÈ?pì{äøœåvÀÎoËZ¾mĞ/¿ã1mAÿl*ÿ~Š‡½±=ƒñrj¾ÂwÆ™„İ +¾«\Ÿ‡ÏÃçáóğyø<|>ßõùÊ÷;ÇàÔtşYØû·—è?ÅÃab1-ó?ÀË,¸‰eñŞHQıo>Ä@<A¬ÂûE\1ítŠüĞA”Xk…ö{j‘«ó÷÷ÁM„Úû¿c¼ïQ‹øwR|{Ì¨! }8•t˜æƒxE ¥ñ|/§9˜ŠäÉŠ©S¦vL«0b²É‰±ûäD¿¾"'úé˜œ6¢ÑR‚!Sş©á“'öîÙ½kçíƒÛ¶nÙ¼iã†õıëúzm=İ]k;;Ö¬^ÕŞÖÚÒÜÔhm¨_YW[Sm1¯¨ª¬(/-)^^TXŸ—›“½÷vs'#în™Bf‹[D8Œ¸¹cÖ="œ8”™•Ht´S©YWPfÎZ¦Ñé,Aç09¸,š¬Íö¦©
+²À^ØY”¥Õfm–½A¬DJÅ=%©>qºNÎ9˜Ì
+³#Û€¥å±<]Ì½¯:oªZĞ: Äno6é&Í3ŠÌœ‰Ep4`nÁ¶#. ÖU4dbN=•#Úä¨õ†FLM+„Q"çªÍmC«%[â?å£'Hù‡¶I«u(C„Æ³]ç ‚F.—™QcÄª±ëÖbuŞ¦­òb cD ûJGLd_yµ‡rh÷U˜¯0„ÉlÈ°Œ,À:ó¨&‘ÊP*%Ò‚– €àÊ\a\ÄöšQ8ÅZN$ˆå&œ…H“™Ğ¦›F‰æ-¤§aƒ5œTcšjÍ!ÍE¢J­Ê­]°Æ›ÖŒCÀ!VJj	WÆä¦0¹˜\MjÆƒÁµ ¤+HGŸr%pUM<ˆfy–‰äQ28âjÒŒŠœÊä–ƒØ’Ò§i(9m6ƒ'M¼òî*«ÍWÕ€üEŒ-2è5Â,7wÍºÔŒ«—5B–Ğ´i‘ÉÒ¢Y;LåfÚ¶Aƒ6Ö½,"œZ—Ö,´hËˆŸŸ½;Ù#V¥¾Á`—ŒŒš–àŒ†É†ä5	Ù´:
+~òÔT¥mp460«õÎ¶gS;°ÒÖ0Â°!#„!i†šRªnBK†Ã]È˜®I‡t©FIkTB†ƒHzÎ²´³WÙ›„F´9S‰¹MÓj±"o‡I°:8!C3ÂAzÈl‚“ÈåœMZ]±¡¤İ’N_k·/Ó˜8½µÉJËËtèév¹JX¶Ì2£G–Öî0Y›°E–ElŒ¾‡Ä,ÁªmF½âtQWåf««iŸŠj³]İ,4¨S“ÉnÅik´MİÒ$êû£h®¸äpÄP/ijE„ĞØ 4Jê÷ÓÚî'´b«™4!Ÿ'¾‰ø¶çYÍØ‚&k³ƒEÓi›-’‘@‰)¾¶™ÑH‹k*2·{§L•ˆ\Â~ì¶{‹íÓÅlšPk‹%[qpzjkfcµÆÑa1L7±:µv­·,P$vÎ¡©Á¡ÀÌ`“•†#%µ=$ä#AknDëE†Ùö)‹Ãnœ~z$ÇZÃ=,1ˆ’
+š	¡Óq–h,Ú†¤¢¿è4Z‡ßÚV+5.hK¤ù”`´Ç—Õ^}ºŒÆ¡Â˜ßjmtŸÔM%íS9”ÊÍĞØí‚İAPÄllŒìõ¥>¾ğÓm¬-¸ˆt<­µEì›âŠÚ¡Ü4Y‚Î‚M˜Q—¨8Œ5ÙÑuèmŠû,»6ÉqªC,§oªjÀ@ë­ÍÖŠKmEK¦JÈ£%2’º†Ğ†Ø_üè†‘:UÈ]Šøé2H]D®(Y™ÙQ2ÕD%~0Ócp0‰XI'OÊp?áÄ…¢ÊS„ä¡zMhUÚ[ë`*ÌòòˆıóhWÍÔ‚Iİ"Zºê¦äu—ä•UŠµøqq¸„àB;8”AªVÑéÜ5Ì£ĞRVWš æq(­\#N¤A.p!-âœ¤PK&¬MšQçÜš,:¼‹8í!²¶KŒ©º”´òAªG’>îô“'Na&ÙMü¨D™i4%Å½Š—µ‡RÉšÓÉµ:Ë½²WÊ~×¢q´[ÍR/¥ÁµQ1r7•Šç‹ôA§Â8†ÓG¯Ò:Ê¸mˆsÛ+i5_ŠÔ*I¶ ÙhCrÀB.¡Ğµ„\ƒÅéœp…â"$Ò—«8ÂF{Œ¼=ÔèíMÍÒÖŒZ†DM*=)Å…v×¶Ÿ†¦
+³BÃYD“Ñ;Öd+–p¿aº~=õIÕ”&]h}ºR!²[/Ù†^Æı—ö²»|»Á\äÕt¸Šu4é]¾y(VZ |i¹ò‰s¾'ò©OÛí4´ÔyRUë}>EKB!“d)Q7›Q”:´‹H‹èn**´l!îXámoJ¦í•Ş(ÍMÔ
+?£N§(·ÔZRÊí"Ù¹\-÷–¬s½Á‚¹lš°I6M²'¹Ë^ª¾/êËì¥5u½·R˜fF7zaš#-5z9GÔk½Q]É¢>õ(*–íÉ#D¥—(h&$ÙnwŸŠÿ4üã­Ãâq,öû	-¸¸Ö®q¹Ÿê!’åUö˜~S¢ìn™÷Lz~¡{“+5€Å¸¾[ş^9âqb†bDuÅ™ÔÙT÷ª©Ğe˜ê;¥·VÑ¥å¾÷Q+Ì[J5õ÷t'q|+ô:š4TuâhÔÆ»òÑv]İ"»­v³2	¶p£\E·*-mí¢ƒœ<«¬V1‰—Ùx–*£ça<óŞZ’
+©ÒõGo¸p!æTM’o£Î?[¤PÅà&©Â®Õzû`•];¯İ¢zå:A¤á.®ÔË­èv£sJí¨ôjÆ^PJ w0·D½×M]©†ßT­¥ı1JB»0 £º…•Â<.d
+­¶ƒ"nõ£Pl±ÛqKµôşTe–0­$£LÏô,3İ~n0ŞÎfÔÁÔğ¬£Î‹ÁôªtwÜíÓã®ÇqiÎ>5ğ(´=pXjr¤F2<üˆsÜIN/m¯µWã+çÑáeyhÙ3Ø"rAQĞ¼[c·TnNsò›RœüÆ%N~CŠ‰HuòëS—ğıq*~]²“ïKnã{“Šy[’“ï‰wòİ‰·ø®D'¿6a%ß™p‹ïHpòk"øÕ	³ùU±N¾=ÆÉ·ÅÜâ[N¾%ÚÉ7G9ù¦¨‹|cTo]ìäòõ‘N~eä1¾.ÂÉ×†;ùƒ“¯»Å[Âœ¼9Ìƒ_±ÈÉW-tò•¡øŠĞ¾<d%_âäKC.ò%z'_¬ä—/pòE‚/.ò‚“Ïªø<,çÎwò9Z'Ÿ­µñY:'¿Lgã3y'Ÿ1ï¿t“7ÍuòéÁN~IÊ1Ó‡|jJ,ŸçÉ'ÅÛøÄøb>!~>wŒ7Æ˜øè(¹8Ÿ7„™øĞ ×‡,äCŒš Úsfñ‚bNPíü '¯Ó.áµ‰³jùÙü¼@'?7ÀÉ¨x1(¸fvl@pÍš¤9ÿ ´€gª}£gUúD{WÎ²x[<bÕ•ŠX®Rmá,<WÏ1^Ü6î6Çz­ô¬tu«TÅ*+I4TzZÜ,JË6%‰T+»”lº²^¹MÉ‚%H$tÁm`]c]*ÙX¦ÒÅÂXx¦a¼˜mÌm†eM&%G†‚Q•³¬ÀáZRã û!åãÇ¡Üç€Êêó!‡,»‡†`nFãH¹ù
+˜ÅS/“YjáØC–Ş>0€Á` ïŞ¾u´@‹æ$Lf %ú¡UDl,¿šÊ}¥J*‰Ï½m¦Ù J …ühâ’éwZÎ§Òdƒós¤ûcş# ø!Ü€Óãp!T,í¿ƒ‹Hy~WáùœKˆ;ì€á,„ã0 !}€sğH?/Ë\~€|B>/ÃkØ{Â–OÁäùœ‚óuò&™yçÀ0öøŸ‚'‘³¶Ãnäû(æ¯a‹@(&€-°©G°ıS(É/á=¢Çñ÷£§á<¼Ä7P4°q,¨À¼À9ÀR]œÑGğÑaòÅ<!ñ!FÂºNôkâ™×ã'úûÄåd¦TD
+G|ü%
+‡˜öÄÇ+j¿8¨è“0pÎùÙ,üM®£òp·cÃuùí;‘QÑKYecã1ş~Ja¾¬òxÖS™—”Ÿ p|ùçÿÅii†´4ä·Ÿóe(é÷‘î ¾êÊº+ Òx+ù³‚OœNÄ$`^y|^—öM>Nj¡¸É½{sîŠ×q‘Tƒ’Ÿ¥°)=¨41>FÊÄÏ“æ/fãâbÓcÌ<–õ‰]Ì
+ó=¿y¬1&áÜMVWê)	[:paUåáîâ°ñÀğÌñ­Yg¬ˆ[Öš5Ÿ-|ïêœÈ«;ñ‡ß»úçc¦E–c¿œ\G4ÇWgğÑ«/mšü×ÆÙºØ®Ë@Ğ€ùµbWE}MÉÙˆšÊ„á*(âB˜_M`|£_är?ß÷ìOè÷´+8#Î…‡ “ÚÛ[í¯°±<ÏĞ8CLj·….`«×ó•J!6ª:€NSE8ãò[³54ÅVjİnëøåãö×W
+š'7ïf|÷w&å®Ë.Ø³bÓÛ¬—×™vîØºdÒBGßšœ«¸ñ 1yx†Ï??œÎ.ë2)Ò(êÓè/êÎßoCu»˜¡‚¨BÓP—óYİª{Vü6İÛûØ}ÆÅ%-	¦æ¬ÚŒ¦eE»+•E½‡K:Ï´F'÷>×ÕïèKN;E¼WN×?ùFë?Z·ÆF[6æ-İPŸP°!‡t?ÙY¶ÿbuÛKû
+­O½Ñºâ1²ğ“Côùhôeh‹J´o*7£òT¸»ØÔ¨¨EÆÄÄ`òIŠŠ.74y}}á|ğ*ù-ùç¿›pXw^sCÁ¿¶YÇ=MÍşÎ¾‰ŸP`éwæÎÙ¹å dXdò7„Ï—œìín›äfsUx©Ä±³¨f%áˆ->w×ˆZ®‘_@ ¿ ×ûŠ:ô0ÆÄÇ'z¢=êõ¢²îÆÖ‚ìU)c©=O6ö_kóõ½éé­e^-Ş\¾¸nYå"¶X•Ö6d^{¾fÙàK]cL„©>6jyD²­.¡äÜ†I—øáŞÚ5ŒbGPLAŒ±":·=ÚÖZ·¤ê‘ê»-‹Qkq¥uJú/sĞk‚Lº •ÍàînãÜlô;}§8ª3•@¦V44NZa•´ähnş’	÷~=ØñDKÛã«ÓÕêôÕµ¶Y“8>/££8»-7Âİ;oSMÁšL­¾x÷]Fïßÿæ£e9{®¯¯¸¾7§øè[ø—îL*mKøSöö²%‡¨=Ö¡ÖÿµJ½anPŸÊÆqàê.ª:Ò‰¶Põ§-NRs  É'Ú(“–Ñ«p(Ößèİxm}JÊúk·]ïDÂÒ®üÊŞÌ¹Á™½»âë—4œo©:ñ£Î°Î¨jéÎìXšÙ³?',ÇŞIí¬eùÓyè8.Àu¦²Qa1²<>hZD4L ?]ØÅL‚ä,(jœyØ„ñç'f/é9mm=µ&Mí¾æ±¶úÓ=KÆuÙµësıÔ9mÙ…JŞU,şÿÍo-ÎÙ{} vıõ=9e¾yÀ¿ôPÇ’åƒJh+Jï<<¥±OQcàMŞm¾Dé;k¡Œ@ÔšäÅõuQÑYwõ….‹!E7Cg(*Ú$Ã,ïyegöò=Ï×ô]èˆ½óOLg\[Ÿ¾º0ÌP¾¾°qŸ±[è8íWtğ†-l×Ïä—¾i+?é™»Ï×~¢1¬hokrI¦%®!=h•ø;%Õä4©}˜ 7•ã&Y›Yèö4E0/z'C²Ç†Šˆ©ï\cÉ`MÔxLCvVOiZ:ıl¶ë‡‹+¯™Ha~\Ù™Üº“z,5 UIéåıŠÊƒUÊC½#tÏU5î9µ=qÉ_¾Á%^Ü–,IvfµÊA ]y¥««Mqš#/²ôÆ•$³J%™"ÊşYAÍ15.UÆ†–m3ûÅ²GîtsÉÊK
+vanSÊ¼ÆK»èo\3+KQfº“¹ù ?28.\¤AÜuq¾F)h$*•bÌ`Ê&^ycl~<hô 91Ël™\ò¡CDõå[	‰³\Ù“*ømÔ:2˜Ç™‹ŠW!|G‚™QWİ}YÊ}ÎÛ2wi_Á5cWÁÈ®b.N<O´±¦”‚œ3¹{VV.‹¬J¹Ìj;ˆWXF\@TZaRnNòª¼¸ÚÚ¸£8Ú&æqr[ŒÌnW•zI¤¼÷©âBÈí'ş‰4b”ıˆ±$mïÃÖO €•xfcq¯œÖ¬ÔTI‹"Î×â"«¥ÿÎzv÷e òíqcjù+&0øòãp·Y”_0ùs
+ËFÂ6`¼ .ƒgt«®×~jõ§'ÆúOMWµÔù9s%öO7Zzºy]T¸Ÿ¼„q²¬ìô¦>µ30gòv™-»óóv›-»òÏh—„‡/ÑjÓÃÃSyòlÇóòÛ¤×ä<“Y¹hQeæ3™UaaUTW6ç'ì«Ü£ş&× ÷uga+¤Ç¤1
+Ü¿“ÇÇO;93¥ºé¸Êü›Ÿ÷–ÖD‡fš£òÚŒmEËúr¹X—Úá¦íçK^Ù½úlG‚éègÜ£§ÓºW=—ßSšŞ™•¹6#ieRKòúÒÎ‘¶î—VçnùA]Å®¶¢|ÅŞâNÃ<˜õŠ»ßVvŞ<f¤£:Óï_ÍûO9ì[wÎK…•Bw“¹;n¼íõƒ›®Ô‡fÕÆMï$§³Û+–¬IhÌh½Ğ\q²)¡­¹5qòT'§è/7¸#’UnaÜ =ıî‰ìÌøä5òwäËnörã™ótõšP‡QFŒ©×‚}¶†*İQÆôË»q”Ú§GìÅ”ÎÇêïJMéz¬¾á‰µ)ãóRÌÉ‰+Rx>Õœ˜¼"e.óä‹;onKKÛvsç‹;ol]²dëÉk¿/ß\¶hQÙæòß—o­0*¶RY¡¾&ğ¤OÏö>/£UØ‚F˜î#­&=à£Ò˜µ£LÎpnèË^nèÔ)ìgÇmKı‚PÓ³MnµzÎì@¼S¤ÇDRS˜EG:ñìFEª›²ÁGĞ‘âo'Ï¯~Æ–’µİ’0ÙÏ°Êî¤øŞêOÆ™_MşòG$ŠŠ¬ŞUUµ»f¶f8®&)}eÜ5.Ó$ê¥=€Gû_:£àÁÓM¡Vq¢ ¸“:½ı"ÙKö¼8éµwâÓšQ®øÌ7t§‡=Lç5¡˜\KgH¨§ãÂ–Šzq½"iD¥c’$8‹¬;wª¼s®
+nº#µ¹Y’iˆ•oJì‰ú1ö1æÀ©SC‰ÌpÄ*ôéK,àû²op0­èÔoÇ$m™ö«N,Ûğ½n%º=º•o€{ãL}FXXÚüœe†ì0&ŒMY“[Ù“˜³³zåş‚¤gX~gRu_b¡^oZ˜V ‹4XÒ²ò‹6å5$´?mK¥'œ#{yz^xV»»¹)½<U[XF‰¦nD»•'Ú"O”P7ÃÄ^hcnM¼ÆX;<<Ì~N';tò$ùƒhETƒZÑŠæÒ5ÔÌñbˆ§—¨n#Ñ¬ºÑrD7À#…x´ÀÙ:Ğ&ÿBˆjûÅŠ¨•j&? s6ßz´dÈ9én¸º)£şÑ–ØSE¼µÕôì_öŞÕ´Õù	şŠäï½uŞ#ß6¦¿-êù›Î}TóìúquÏ­“=/ïÈÎŞõjßÑŸô¨ÇİÒúë‹J…ö—4¤“=WZ‹ÿtKë–Ÿ)jyi]ÑÚ”¸¶£umæGV'%v‚4söqæÑ°Ğä¬YÄ0D£'D¯a=Ô^[<¨f&EFFRCJ7„{½ÈgÚ½XYIbE‚.Pº11e“727·=1±³ä·cäDÓ™ÔÂC-9“ûêIPÑª„È–’Û„,]Ø°=#¥ë	Æ÷`hA|jÑ‚;jnH¿| ,g]jâ‡ÃáeI)æèƒqlé¶¼ò-ah~¸n=(=œÁ‚MjP²j5Q±[¸xhh(4•™ú!¡FÂÒ@²r²÷‡äı$o²ßc#ùõ›(d?¼@×†ı÷'Ñ÷.;PÊ1g£Jù1='!¥
+)—¯(UÌ|JÁU<‹ï7Å€;Ëán*Ç^cäôîIğ›c“G7q„g<ûSì¹S´º³ ÅS£½oeµÚémÂøµ÷aI«xÖŞÙK>,Èği.*Ş˜=ÖÿÎ®–S«â4q…Ñ“‡‡‡w‘Ñ¥5ùú˜	i}¥=ãİ±µ³£êªÍá“WgÒ£ûrg9%Sğ)-Ç;?âr¸sXn¹NË[ñ ¸Â)aÎÿ¦åÏĞRærCXŸ_AËò©F©3ÈÀ ößÏûv»‰ê+»	·¿ğÀu[÷kCË—¼Şm»~°h,Ê²¹ “%*ºzS~á&s$Sâwô½ã……Çß;:•¹²xÕÙ5		kÎ®ÂLgBBçYù÷}Ş ƒÎ±ÒúšyüAoÚ¸¾°§ğî°§@/İ Cñx|æğ§øWîHº¦İ½Şş¿š2ñxY¼¾<’: İ /ã° ²7kîÜe½;¾şx@ºÖ ÆÈ÷xÌ?wçËÌOÏ¼>½!s<t¹mÆ°wyè·»¦v™y£{àíïw?ùªu÷ò§Ä#û†×‡
+f^şŒ6ñîU³«²ö`Tbøs~Å¼Ñ>ø{nŞî—Vo89'o{™±ñH]xéĞšÔøÛBĞV áïVŒ¢ø_¢>!Ç…> ´|
+õ-ù-ïÅ2¯xË~ò~b¦¡6|¼ï“y2|'¸øí€ñeZ™KŒ“-aûüWà=ö=Îó¯‚¬{ ö[A÷CxC8Ï½©PÊP%ÃÅsŠŸ	J7„üiØ(ÃAåÕÿ0yT÷A»êyW—¤B†_v—g¿.#¼âòš?ág¸ú!´¹¾àÓ'BéCxá!|g°È`aÕ=Àó¡ŒÓ_ãpôï±¬§CóÔX’òxÂ%9ÏÎ s3ò
+ĞOóQB0œ‘ó*0M·qÁöóä¼+¶ÿœw?¼HyõŒ¼Ô’9rŞ*H¿œÇÍ„.èÆs«VA´CŞrc 
+¢´ƒµ]Hï€,åÁZh‚Å˜[Š”|—M÷êK-ønA^ıˆ›±eönÄÔ‡I‹mi++¦>lcÅ-Ğ‰o¬AZ´Ş7â½ı#Dşm°ëhŸ*q¤^äÚ…riÁˆí£b!EM™â/›èÈ}ˆ­bK‰k‹ø‹§^±÷½£6a¾
+±}–×ŠsjÆ~ë0ß,ö£3hu²µgÅvRéŞ>áH¹_ÊQJª±>ì™Œ·¸HX/Âbäs—×bloC‰"Q¦™<{‘Rˆ+‘	Y°ÊGÈ<Yé¢â\ıÕ¿¹$ÿ‹Z ø01oHCê2´«ßxíô»ˆ÷ ı{Qû€â÷O">O#>Ï ~^@FÚğ«ˆ_C pÀàuÄ?F ğ[@ÿöÕ?ÀÏÿÀ‡÷ÿE ğø#âàKÄœ„ !,A&.=Œ uL‚kÉ|ÄH(°$Œ€~‹8Ä#N!©ˆ—’eˆsH.âR„¸””"® fÄuµAI#âfÒŒ¸´#^M:¯%kwÔy•Ü†¼K>Àü‡äCÄŸ’ON>G|‡LaèïyÃ2(-£bTˆ]wÄ>Œâ f6â9ÊÏ,Ä5!ŒA™™&qcD\Ï4!îeobş'âØó@ØgÙg_`¯"¾Æ^G|ƒıâ÷Ù÷ÿû¿È~Œø6‹R±Ÿsƒèõ;¹]ˆ÷p{ïç">ÁıñgJ« 
+Oñ¯‚QK¢ÿ“ïÆôz!¼€öBWø’ø#åD=+şhÁgø
+endstream
+endobj
+405 0 obj
+<<
+/P 403 0 R
+/S /LI
+/Type /StructElem
+/K [390 0 R]
+/Pg 12 0 R
+>>
+endobj
+406 0 obj
+<<
+/P 403 0 R
+/S /LI
+/Type /StructElem
+/K [391 0 R]
+/Pg 12 0 R
+>>
+endobj
+407 0 obj
+<<
+/P 403 0 R
+/S /LI
+/Type /StructElem
+/K [392 0 R]
+/Pg 12 0 R
+>>
+endobj
+408 0 obj
+<<
+/O /List
+/ListNumbering /None
+>>
+endobj
+xref
+0 409
+0000000000 65535 f
+0000000015 00000 n
+0000000690 00000 n
+0000000781 00000 n
+0000000928 00000 n
+0000004164 00000 n
+0000004207 00000 n
+0000000188 00000 n
+0000004321 00000 n
+0000004620 00000 n
+0000005182 00000 n
+0000005546 00000 n
+0000005869 00000 n
+0000006181 00000 n
+0000006493 00000 n
+0000006777 00000 n
+0000008771 00000 n
+0000008860 00000 n
+0000008949 00000 n
+0000009039 00000 n
+0000009121 00000 n
+0000009211 00000 n
+0000009301 00000 n
+0000009358 00000 n
+0000009415 00000 n
+0000009906 00000 n
+0000010294 00000 n
+0000010716 00000 n
+0000011146 00000 n
+0000011341 00000 n
+0000011541 00000 n
+0000011744 00000 n
+0000011952 00000 n
+0000012158 00000 n
+0000012366 00000 n
+0000012561 00000 n
+0000012751 00000 n
+0000012950 00000 n
+0000013151 00000 n
+0000013346 00000 n
+0000013551 00000 n
+0000013746 00000 n
+0000013939 00000 n
+0000014129 00000 n
+0000014335 00000 n
+0000014532 00000 n
+0000014736 00000 n
+0000014933 00000 n
+0000015124 00000 n
+0000015321 00000 n
+0000015513 00000 n
+0000015711 00000 n
+0000015899 00000 n
+0000016105 00000 n
+0000016302 00000 n
+0000016511 00000 n
+0000016716 00000 n
+0000016914 00000 n
+0000017118 00000 n
+0000017321 00000 n
+0000017513 00000 n
+0000017697 00000 n
+0000020578 00000 n
+0000020767 00000 n
+0000020956 00000 n
+0000021148 00000 n
+0000021347 00000 n
+0000021532 00000 n
+0000021722 00000 n
+0000024512 00000 n
+0000024849 00000 n
+0000026269 00000 n
+0000027464 00000 n
+0000028828 00000 n
+0000028927 00000 n
+0000029043 00000 n
+0000029145 00000 n
+0000029255 00000 n
+0000029372 00000 n
+0000029470 00000 n
+0000029568 00000 n
+0000029677 00000 n
+0000029794 00000 n
+0000029909 00000 n
+0000030005 00000 n
+0000030122 00000 n
+0000030215 00000 n
+0000030310 00000 n
+0000030406 00000 n
+0000030502 00000 n
+0000030619 00000 n
+0000030717 00000 n
+0000030811 00000 n
+0000030915 00000 n
+0000031012 00000 n
+0000031117 00000 n
+0000031234 00000 n
+0000031348 00000 n
+0000031477 00000 n
+0000031581 00000 n
+0000031775 00000 n
+0000031874 00000 n
+0000031987 00000 n
+0000032104 00000 n
+0000032203 00000 n
+0000032318 00000 n
+0000032415 00000 n
+0000032584 00000 n
+0000032694 00000 n
+0000032820 00000 n
+0000032921 00000 n
+0000033025 00000 n
+0000033148 00000 n
+0000033254 00000 n
+0000033349 00000 n
+0000033499 00000 n
+0000033596 00000 n
+0000033765 00000 n
+0000033932 00000 n
+0000034041 00000 n
+0000034136 00000 n
+0000034233 00000 n
+0000034341 00000 n
+0000034436 00000 n
+0000034533 00000 n
+0000034641 00000 n
+0000034736 00000 n
+0000034834 00000 n
+0000034933 00000 n
+0000035034 00000 n
+0000035129 00000 n
+0000035227 00000 n
+0000035325 00000 n
+0000035437 00000 n
+0000035532 00000 n
+0000035630 00000 n
+0000035771 00000 n
+0000035892 00000 n
+0000035987 00000 n
+0000036085 00000 n
+0000036183 00000 n
+0000036291 00000 n
+0000036422 00000 n
+0000036541 00000 n
+0000036690 00000 n
+0000036798 00000 n
+0000036893 00000 n
+0000037035 00000 n
+0000037130 00000 n
+0000037275 00000 n
+0000037382 00000 n
+0000037489 00000 n
+0000037600 00000 n
+0000037730 00000 n
+0000037807 00000 n
+0000037924 00000 n
+0000038064 00000 n
+0000038169 00000 n
+0000038260 00000 n
+0000038351 00000 n
+0000038442 00000 n
+0000038533 00000 n
+0000038624 00000 n
+0000038715 00000 n
+0000038820 00000 n
+0000038911 00000 n
+0000039002 00000 n
+0000039093 00000 n
+0000039185 00000 n
+0000039277 00000 n
+0000039369 00000 n
+0000039469 00000 n
+0000039561 00000 n
+0000039653 00000 n
+0000039745 00000 n
+0000039837 00000 n
+0000039929 00000 n
+0000040021 00000 n
+0000040113 00000 n
+0000040205 00000 n
+0000040297 00000 n
+0000040397 00000 n
+0000040489 00000 n
+0000040581 00000 n
+0000040673 00000 n
+0000040765 00000 n
+0000040857 00000 n
+0000040949 00000 n
+0000041041 00000 n
+0000041133 00000 n
+0000041233 00000 n
+0000041345 00000 n
+0000041422 00000 n
+0000041586 00000 n
+0000041681 00000 n
+0000041824 00000 n
+0000042010 00000 n
+0000042131 00000 n
+0000042226 00000 n
+0000042329 00000 n
+0000042406 00000 n
+0000042516 00000 n
+0000042612 00000 n
+0000042730 00000 n
+0000042826 00000 n
+0000042923 00000 n
+0000043021 00000 n
+0000043117 00000 n
+0000043218 00000 n
+0000043318 00000 n
+0000043417 00000 n
+0000043534 00000 n
+0000043649 00000 n
+0000043750 00000 n
+0000043878 00000 n
+0000043985 00000 n
+0000044093 00000 n
+0000044314 00000 n
+0000044412 00000 n
+0000044512 00000 n
+0000044732 00000 n
+0000044830 00000 n
+0000044941 00000 n
+0000045119 00000 n
+0000045261 00000 n
+0000045371 00000 n
+0000045508 00000 n
+0000045624 00000 n
+0000045725 00000 n
+0000045945 00000 n
+0000046042 00000 n
+0000046264 00000 n
+0000046362 00000 n
+0000046464 00000 n
+0000046684 00000 n
+0000046782 00000 n
+0000046879 00000 n
+0000047040 00000 n
+0000047157 00000 n
+0000047250 00000 n
+0000047343 00000 n
+0000047436 00000 n
+0000047529 00000 n
+0000047622 00000 n
+0000047750 00000 n
+0000047884 00000 n
+0000048094 00000 n
+0000048232 00000 n
+0000048332 00000 n
+0000048440 00000 n
+0000048536 00000 n
+0000048679 00000 n
+0000048793 00000 n
+0000048898 00000 n
+0000049004 00000 n
+0000049110 00000 n
+0000049216 00000 n
+0000049430 00000 n
+0000049645 00000 n
+0000049857 00000 n
+0000050030 00000 n
+0000050167 00000 n
+0000050263 00000 n
+0000050364 00000 n
+0000050488 00000 n
+0000050565 00000 n
+0000050765 00000 n
+0000050880 00000 n
+0000051025 00000 n
+0000051136 00000 n
+0000051260 00000 n
+0000051467 00000 n
+0000051576 00000 n
+0000051672 00000 n
+0000051804 00000 n
+0000051901 00000 n
+0000052083 00000 n
+0000052180 00000 n
+0000052341 00000 n
+0000052450 00000 n
+0000052547 00000 n
+0000052645 00000 n
+0000052749 00000 n
+0000052826 00000 n
+0000052953 00000 n
+0000053096 00000 n
+0000053193 00000 n
+0000053319 00000 n
+0000053428 00000 n
+0000053531 00000 n
+0000053640 00000 n
+0000053740 00000 n
+0000053839 00000 n
+0000053963 00000 n
+0000054064 00000 n
+0000054229 00000 n
+0000054339 00000 n
+0000054451 00000 n
+0000054551 00000 n
+0000054667 00000 n
+0000054779 00000 n
+0000054920 00000 n
+0000055032 00000 n
+0000055132 00000 n
+0000055246 00000 n
+0000055340 00000 n
+0000055426 00000 n
+0000055512 00000 n
+0000055646 00000 n
+0000055733 00000 n
+0000055860 00000 n
+0000056019 00000 n
+0000056106 00000 n
+0000056233 00000 n
+0000056320 00000 n
+0000056479 00000 n
+0000056720 00000 n
+0000056966 00000 n
+0000057216 00000 n
+0000057470 00000 n
+0000057550 00000 n
+0000057637 00000 n
+0000057717 00000 n
+0000057797 00000 n
+0000057953 00000 n
+0000058141 00000 n
+0000058270 00000 n
+0000058575 00000 n
+0000058712 00000 n
+0000058809 00000 n
+0000058866 00000 n
+0000058923 00000 n
+0000058980 00000 n
+0000059037 00000 n
+0000059094 00000 n
+0000059151 00000 n
+0000059208 00000 n
+0000059265 00000 n
+0000059322 00000 n
+0000059379 00000 n
+0000059436 00000 n
+0000059493 00000 n
+0000059550 00000 n
+0000059607 00000 n
+0000059664 00000 n
+0000059721 00000 n
+0000059778 00000 n
+0000059835 00000 n
+0000059892 00000 n
+0000059949 00000 n
+0000060006 00000 n
+0000060063 00000 n
+0000060120 00000 n
+0000060177 00000 n
+0000060234 00000 n
+0000060291 00000 n
+0000060348 00000 n
+0000060405 00000 n
+0000060462 00000 n
+0000060519 00000 n
+0000060576 00000 n
+0000060633 00000 n
+0000060714 00000 n
+0000060771 00000 n
+0000060853 00000 n
+0000060959 00000 n
+0000061081 00000 n
+0000061243 00000 n
+0000061373 00000 n
+0000061559 00000 n
+0000061617 00000 n
+0000061675 00000 n
+0000061733 00000 n
+0000061791 00000 n
+0000061849 00000 n
+0000061907 00000 n
+0000061989 00000 n
+0000062071 00000 n
+0000062193 00000 n
+0000062275 00000 n
+0000062357 00000 n
+0000062439 00000 n
+0000062521 00000 n
+0000062603 00000 n
+0000062709 00000 n
+0000062807 00000 n
+0000062889 00000 n
+0000062979 00000 n
+0000063061 00000 n
+0000063151 00000 n
+0000063241 00000 n
+0000063335 00000 n
+0000063429 00000 n
+0000063523 00000 n
+0000063629 00000 n
+0000063735 00000 n
+0000063849 00000 n
+0000063955 00000 n
+0000064037 00000 n
+0000064127 00000 n
+0000064209 00000 n
+0000064291 00000 n
+0000064373 00000 n
+0000064463 00000 n
+0000064572 00000 n
+0000073022 00000 n
+0000073105 00000 n
+0000073188 00000 n
+0000073271 00000 n
+trailer
+<<
+/Size 409
+/Root 1 0 R
+/Info 7 0 R
+/ID [<85120DDF166E0547BC90D5EB840231FD> <85120DDF166E0547BC90D5EB840231FD>]
+>>
+startxref
+73324
+%%EOF
